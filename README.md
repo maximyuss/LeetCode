@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty |
 | :--- | :--- | :--- | :---: |
+| 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/46.cpp">C++</a> <a href="https://github.com/maximyuss/LeeCode/blob/master/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/50.cpp">C++</a> | Medium |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/78.cpp">C++</a> | Medium |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/154.cpp">C++</a> | Hard |
