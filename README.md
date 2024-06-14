@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty |
 | :--- | :--- | :--- | :---: |
+| 36 | <a href="https://leetcode.com/problems/valid_sudoku/">Valid Sudoku</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/36.cpp">C++</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/46.cpp">C++</a> <a href="https://github.com/maximyuss/LeeCode/blob/master/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/50.cpp">C++</a> | Medium |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="https://github.com/maximyuss/LeeCode/blob/master/code/cpp/75.cpp">C++</a> <a href="https://github.com/maximyuss/LeeCode/blob/master/code/python/75.py">Python</a> | Medium |
