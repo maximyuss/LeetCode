@@ -3,12 +3,14 @@
 | 36 | <a href="https://leetcode.com/problems/valid_sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a> <a href="/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="/code/cpp/50.cpp">C++</a> | Medium |
+| 69 | <a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a> | <a href="/code/cpp/69.cpp">C++</a> | Easy |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
 | 208 | <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> | <a href="/code/cpp/208.cpp">C++</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
+| 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 502 | <a href="https://leetcode.com/problems/ipo/">IPO</a> | <a href="/code/cpp/502.cpp">C++</a> | Hard |
 | 523 | <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a> | <a href="/code/cpp/523.cpp">C++</a> <a href="/code/python/523.py">Python</a> | Medium |
 | 540 | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a> | <a href="/code/cpp/540.cpp">C++</a> | Medium |
