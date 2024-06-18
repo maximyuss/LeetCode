@@ -29,4 +29,5 @@
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
+| 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
