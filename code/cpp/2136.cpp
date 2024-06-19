@@ -1,8 +1,6 @@
 //https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
 class Solution {
 public:
-    Solution() {ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);}
-    
     int earliestFullBloom(vector<int>& plantTime, vector<int>& growTime) {
         size_t n = plantTime.size(), totalPlantTime = -1, totalMaxTime = 0;
         vector <pair<int, size_t>> pairs (n);
