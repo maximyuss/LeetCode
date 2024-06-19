@@ -25,6 +25,7 @@
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
 | 1208 | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a> | <a href="/code/cpp/1208.cpp">C++</a> | Medium |
+| 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
