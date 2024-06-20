@@ -30,6 +30,7 @@
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
+| 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
