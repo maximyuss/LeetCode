@@ -25,9 +25,3 @@ class Solution:
             else:
                 l = mid + 1
         return int(l)
-
-s = Solution()
-f = open('user.out', 'w')
-for bloomDay, m, k in zip(map(loads, stdin), map(loads, stdin),map(loads, stdin)):
-    f.write(dumps(s.minDays(bloomDay, m, k)).replace(' ', '') + '\n')
-exit() 
