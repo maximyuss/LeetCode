@@ -26,6 +26,7 @@
 | 1052 | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a> | <a href="/code/cpp/1052.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
 | 1208 | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a> | <a href="/code/cpp/1208.cpp">C++</a> | Medium |
+| 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a>  | Medium |
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
