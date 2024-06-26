@@ -23,6 +23,7 @@
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
+| 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
 | 1038 | <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">Binary Search Tree to Greater Sum Trees</a> | <a href="/code/cpp/1038.cpp">C++</a> <a href="/code/python/1038.py">Python</a>  | Medium |
 | 1052 | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a> | <a href="/code/cpp/1052.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
