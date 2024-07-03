@@ -2,15 +2,10 @@
 
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
-        if len(nums) < 5:
-            return 0
-        arr = nsmallest(4, nums)
-        tmp = nlargest(4, nums)
-        for num in tmp[::-1]:
-            if num > arr[3]:
-                arr.append(num)
-        res = 10 ** 10 + 1
-        for l in range(4):
-            r = len(arr) - 4 + l
-            res = min(res, arr[r] - arr[l])
-        return res
+        if len(nums) < 5: return 0
+        small = nsmallest(4, nums)
+        big = nlargest(4, nums)
+        min_diff = 10 ** 10 + 1
+        for i in range(4):
+            min_diff = min(min_diff, big[3 - i] - small[i])
+        return min_diff
