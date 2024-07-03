@@ -41,7 +41,7 @@ public:
         vector<int> big = findNMinsOrMaxs(MAX, nums, 4);
         
         int min_diff = INT_MAX;
-        for (int i = 0; i <= 3; ++i)
+        for (size_t i = 0; i < 4; i++)
             min_diff = min(min_diff, big[i] - small[i]);
         return min_diff;
     }
@@ -60,7 +60,7 @@ public:
     	sort(big.begin(), big.end());
     
     	int min_diff = INT_MAX;
-    	for (int i = 0; i <= 3; ++i)
+    	for (size_t i = 0; i < 4; i++)
     		min_diff = min(min_diff, big[i] - small[i]);
     	return min_diff;
     }
