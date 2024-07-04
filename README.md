@@ -42,6 +42,7 @@
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
+| 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
 | 2265 | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a> | <a href="/code/cpp/2265.cpp">C++</a> <a href="/code/python/2265.py">Python</a> | Medium |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
