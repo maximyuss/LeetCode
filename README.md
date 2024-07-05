@@ -41,6 +41,7 @@
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
+| 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
