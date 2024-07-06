@@ -16,6 +16,7 @@
 | 523 | <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a> | <a href="/code/cpp/523.cpp">C++</a> <a href="/code/python/523.py">Python</a> | Medium |
 | 540 | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a> | <a href="/code/cpp/540.cpp">C++</a> | Medium |
 | 560 | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a> | <a href="/code/cpp/560.cpp">C++</a> <a href="/code/python/560.py">Python</a> | Medium |
+| 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="/code/cpp/611.cpp">C++</a> | Medium |
 | 633 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a> | <a href="/code/cpp/633.cpp">C++</a> | Medium |
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
