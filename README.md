@@ -41,6 +41,7 @@
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
+| 1823 | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/">Find the Winner of the Circular Game</a> | <a href="/code/python/1823.py">Python</a> | Medium |
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
