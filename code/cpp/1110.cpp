@@ -12,17 +12,15 @@ public:
                     parent->right = NULL;
                 isNew = true;
             }
-            dfs(curr->left, st, res, curr, true, isNew);
-            dfs(curr->right, st, res, curr, false, isNew);
         }
         else {
             if (isNew) {
                 res.emplace_back(curr);
                 isNew = false;
             }
-            dfs(curr->left, st, res, curr, true);
-            dfs(curr->right, st, res, curr, false);
         }
+        dfs(curr->left, st, res, curr, true, isNew);
+        dfs(curr->right, st, res, curr, false, isNew);
     }
 
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
