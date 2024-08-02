@@ -30,6 +30,7 @@
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
 | 1038 | <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">Binary Search Tree to Greater Sum Trees</a> | <a href="/code/cpp/1038.cpp">C++</a> <a href="/code/python/1038.py">Python</a>  | Medium |
 | 1052 | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a> | <a href="/code/cpp/1052.cpp">C++</a> | Medium |
+| 1105 | <a href="https://leetcode.com/problems/filling-bookcase-shelves/">Filling Bookcase Shelves</a> | <a href="/code/python/1105.py">Python</a> | Medium |
 | 1110 | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">Delete Nodes And Return Forest</a> | <a href="/code/cpp/1110.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
 | 1190 | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/">Reverse Substrings Between Each Pair of Parentheses</a> | <a href="/code/python/1190.py">Python</a>  | Medium |
