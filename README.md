@@ -49,6 +49,7 @@
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
+| 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2196 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">Create Binary Tree From Descriptions</a> | <a href="/code/cpp/2196.cpp">C++</a> <a href="/code/python/2196.py">Python</a> | Medium |
 | 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
