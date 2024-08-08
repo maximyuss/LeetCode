@@ -3,6 +3,7 @@
 | 36 | <a href="https://leetcode.com/problems/valid_sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a> <a href="/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="/code/cpp/50.cpp">C++</a> | Medium |
+| 54 | <a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a> | <a href="/code/python/54.py">Python</a> | Medium |
 | 69 | <a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a> | <a href="/code/cpp/69.cpp">C++</a> | Easy |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
