@@ -9,6 +9,7 @@
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
 | 113 | <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a> | <a href="/code/python/113.py">Python</a> | Medium |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
+| 200 | <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a> | <a href="/code/python/200.py">Python</a> | Medium |
 | 208 | <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> | <a href="/code/cpp/208.cpp">C++</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
