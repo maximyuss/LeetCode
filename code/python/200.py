@@ -7,12 +7,12 @@ class Solution:
                 for i in range(4):
                     check(row + shift[i][0],col + shift[i][1])
 
-        shift = [[-1, 0], [0, 1], [1, 0], [0, -1]]
+        shift = [(-1, 0), (0, 1), (1, 0), (0, -1)]
         rows, cols = len(grid), len(grid[0])
-        count = 0
+        res = 0
         for i in range(rows):
             for j in range(cols):
                 if grid[i][j] == "1":
                     check(i, j)
-                    count += 1
-        return count
+                    res += 1
+        return res
