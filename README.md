@@ -28,6 +28,7 @@
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
+| 874 | <a href="https://leetcode.com/problems/walking-robot-simulation/">Walking Robot Simulation</a> | <a href="/code/python/874.py">Python</a> | Medium |
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
 | 947 | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">Most Stones Removed with Same Row or Column</a> | <a href="/code/python/947.py">Python</a> | Medium |
