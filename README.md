@@ -60,6 +60,7 @@
 | 1905 | <a href="https://leetcode.com/problems/count-sub-islands/">Count Sub Islands</a> | <a href="/code/python/1905.py">Python</a> | Medium |
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
+| 2069 | <a href="https://leetcode.com/problems/walking-robot-simulation-ii/">Walking Robot Simulation II</a> | <a href="/code/python/2069.py">Python</a> | Medium |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2196 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">Create Binary Tree From Descriptions</a> | <a href="/code/cpp/2196.cpp">C++</a> <a href="/code/python/2196.py">Python</a> | Medium |
