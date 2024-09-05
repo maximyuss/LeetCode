@@ -59,6 +59,7 @@
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 1905 | <a href="https://leetcode.com/problems/count-sub-islands/">Count Sub Islands</a> | <a href="/code/python/1905.py">Python</a> | Medium |
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
+| 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
 | 2069 | <a href="https://leetcode.com/problems/walking-robot-simulation-ii/">Walking Robot Simulation II</a> | <a href="/code/python/2069.py">Python</a> | Medium |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
