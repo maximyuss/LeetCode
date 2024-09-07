@@ -45,6 +45,7 @@
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
 | 1282 | <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a> | <a href="/code/cpp/1282.cpp">C++</a> <a href="/code/python/1282.py">Python</a> | Medium |
 | 1365 | <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a> | <a href="/code/cpp/1365.cpp">C++</a> <a href="/code/python/1365.py">Python</a> | Easy |
+| 1367 | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/">Linked List in Binary Tree</a> | <a href="/code/cpp/1367.cpp">C++</a> | Medium |
 | 1382 | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</a> | <a href="/code/cpp/1382.cpp">C++</a> <a href="/code/python/1382.py">Python</a> | Medium |
 | 1476 | <a href="https://leetcode.com/problems/subrectangle-queries/">Subrectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
