@@ -25,6 +25,7 @@
 | 633 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a> | <a href="/code/cpp/633.cpp">C++</a> | Medium |
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
+| 725 | <a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a> | <a href="/code/python/725.py">Python</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
