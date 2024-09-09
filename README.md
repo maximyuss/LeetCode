@@ -71,6 +71,7 @@
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
 | 2265 | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a> | <a href="/code/cpp/2265.cpp">C++</a> <a href="/code/python/2265.py">Python</a> | Medium |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
+| 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
