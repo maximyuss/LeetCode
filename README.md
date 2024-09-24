@@ -7,6 +7,7 @@
 | 69 | <a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a> | <a href="/code/cpp/69.cpp">C++</a> | Easy |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
+| 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |
 | 113 | <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a> | <a href="/code/python/113.py">Python</a> | Medium |
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
@@ -14,6 +15,7 @@
 | 200 | <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a> | <a href="/code/python/200.py">Python</a> | Medium |
 | 208 | <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> | <a href="/code/cpp/208.cpp">C++</a> | Medium |
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
+| 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
