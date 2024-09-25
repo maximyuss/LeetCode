@@ -84,8 +84,8 @@
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
+| 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2707 | <a href="https://leetcode.com/problems/extra-characters-in-a-string/">Extra Characters in a String</a> | <a href="/code/python/2707.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
-. 
