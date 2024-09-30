@@ -17,11 +17,12 @@
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
+| 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
+| 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
 | 472 | <a href="https://leetcode.com/problems/concatenated-words/">Concatenated Words</a> | <a href="/code/python/472.py">Python</a> | Hard |
-| 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 501 | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a> | <a href="/code/cpp/501.cpp">C++</a> <a href="/code/python/501.py">Python</a> | Easy |
 | 502 | <a href="https://leetcode.com/problems/ipo/">IPO</a> | <a href="/code/cpp/502.cpp">C++</a> <a href="/code/python/502.py">Python</a> | Hard |
 | 523 | <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a> | <a href="/code/cpp/523.cpp">C++</a> <a href="/code/python/523.py">Python</a> | Medium |
