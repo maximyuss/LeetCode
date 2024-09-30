@@ -19,6 +19,7 @@
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
+| 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
