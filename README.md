@@ -30,6 +30,7 @@
 | 539 | <a href="https://leetcode.com/problems/minimum-time-difference/">Minimum Time Difference</a> | <a href="/code/cpp/539.cpp">C++</a> <a href="/code/python/539.py">Python</a> | Medium |
 | 540 | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a> | <a href="/code/cpp/540.cpp">C++</a> | Medium |
 | 560 | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a> | <a href="/code/cpp/560.cpp">C++</a> <a href="/code/python/560.py">Python</a> | Medium |
+| 567 | <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a> | <a href="/code/python/567.py">Python</a> | Medium |
 | 592 | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">592. Fraction Addition and Subtraction</a> | <a href="/code/python/592.py">Python</a> | Medium |
 | 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="/code/cpp/611.cpp">C++</a> | Medium |
 | 624 | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/">Maximum Distance in Arrays</a> | <a href="/code/python/624.py">Python</a> | Medium |
