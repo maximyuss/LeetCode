@@ -6,6 +6,7 @@
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="/code/cpp/50.cpp">C++</a> | Medium |
 | 54 | <a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a> | <a href="/code/python/54.py">Python</a> | Medium |
 | 69 | <a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a> | <a href="/code/cpp/69.cpp">C++</a> | Easy |
+| 73 | <a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a> | <a href="/code/cpp/73.cpp">C++</a> | Medium |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
 | 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |
