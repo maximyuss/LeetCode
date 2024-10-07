@@ -18,6 +18,7 @@
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
+| 289 | <a href="https://leetcode.com/problems/game-of-life/">Game of Life</a> | <a href="/code/python/289.py">Python</a> | Medium |
 | 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> | Medium |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
