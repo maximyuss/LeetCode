@@ -50,6 +50,7 @@
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
 | 874 | <a href="https://leetcode.com/problems/walking-robot-simulation/">Walking Robot Simulation</a> | <a href="/code/python/874.py">Python</a> | Medium |
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
+| 921 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">Minimum Add to Make Parentheses Valid</a> | <a href="/code/cpp/921.cpp">C++</a> | Medium |
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
 | 947 | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">Most Stones Removed with Same Row or Column</a> | <a href="/code/python/947.py">Python</a> | Medium |
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
