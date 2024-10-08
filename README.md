@@ -75,6 +75,7 @@
 | 1497 | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a> | <a href="/code/python/1497.py">Python</a> | Medium |
 | 1509 | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">Minimum Difference Between Largest and Smallest Value in Three Moves</a> | <a href="/code/cpp/1509.cpp">C++</a> <a href="/code/python/1509.py">Python</a>  | Medium |
 | 1530 | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/">Number of Good Leaf Nodes Pairs</a> | <a href="/code/cpp/1530.cpp">C++</a> | Medium |
+| 1541 | <a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/">Minimum Insertions to Balance a Parentheses String</a> | <a href="/code/cpp/1541.cpp">C++</a> | Medium |
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1670 | <a href="https://leetcode.com/problems/design-front-middle-back-queue/">Design Front Middle Back Queue</a> | <a href="/code/python/1670.py">Python</a> | Medium |
