@@ -38,6 +38,7 @@
 | 592 | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">592. Fraction Addition and Subtraction</a> | <a href="/code/python/592.py">Python</a> | Medium |
 | 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="/code/cpp/611.cpp">C++</a> | Medium |
 | 624 | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/">Maximum Distance in Arrays</a> | <a href="/code/python/624.py">Python</a> | Medium |
+| 632 | <a href="https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/">Smallest Range Covering Elements from K Lists</a> | <a href="/code/cpp/632.cpp">C++</a> | Hard |
 | 633 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a> | <a href="/code/cpp/633.cpp">C++</a> | Medium |
 | 641 | <a href="https://leetcode.com/problems/design-circular-deque/">Design Circular Deque</a> | <a href="/code/python/641.py">Python</a> | Medium |
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
