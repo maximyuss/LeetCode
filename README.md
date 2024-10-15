@@ -54,6 +54,7 @@
 | 921 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">Minimum Add to Make Parentheses Valid</a> | <a href="/code/cpp/921.cpp">C++</a> | Medium |
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
 | 947 | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">Most Stones Removed with Same Row or Column</a> | <a href="/code/python/947.py">Python</a> | Medium |
+| 962 | <a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a> | <a href="/code/cpp/962.cpp">C++</a> | Medium |
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
