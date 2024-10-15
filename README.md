@@ -89,6 +89,7 @@
 | 1863 | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/">Sum of All Subset XOR Totals</a> | <a href="/code/cpp/1863.cpp">C++</a> | Easy |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 1905 | <a href="https://leetcode.com/problems/count-sub-islands/">Count Sub Islands</a> | <a href="/code/python/1905.py">Python</a> | Medium |
+| 1942 | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/">The Number of the Smallest Unoccupied Chair</a> | <a href="/code/cpp/1942.cpp">C++</a> | Medium |
 | 1963 | <a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a> | <a href="/code/cpp/1963.cpp">C++</a> | Medium |
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
 | 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
