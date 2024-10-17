@@ -43,6 +43,7 @@
 | 633 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a> | <a href="/code/cpp/633.cpp">C++</a> | Medium |
 | 641 | <a href="https://leetcode.com/problems/design-circular-deque/">Design Circular Deque</a> | <a href="/code/python/641.py">Python</a> | Medium |
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
+| 670 | <a href="https://leetcode.com/problems/maximum-swap/">Maximum Swap</a> | <a href="/code/cpp/670.cpp">C++</a> | Medium |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
 | 725 | <a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a> | <a href="/code/python/725.py">Python</a> | Medium |
 | 729 | <a href="https://leetcode.com/problems/my-calendar-I/">My Calendar I</a> | <a href="/code/cpp/729.cpp">C++</a> <a href="/code/python/729.py">Python</a> | Medium |
