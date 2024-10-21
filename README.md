@@ -64,6 +64,7 @@
 | 1038 | <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">Binary Search Tree to Greater Sum Trees</a> | <a href="/code/cpp/1038.cpp">C++</a> <a href="/code/python/1038.py">Python</a>  | Medium |
 | 1052 | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a> | <a href="/code/cpp/1052.cpp">C++</a> | Medium |
 | 1105 | <a href="https://leetcode.com/problems/filling-bookcase-shelves/">Filling Bookcase Shelves</a> | <a href="/code/python/1105.py">Python</a> | Medium |
+| 1106 | <a href="https://leetcode.com/problems/parsing-a-boolean-expression/">Parsing A Boolean Expression</a> | <a href="/code/cpp/1106.cpp">C++</a> | Hard |
 | 1110 | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">Delete Nodes And Return Forest</a> | <a href="/code/cpp/1110.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
 | 1190 | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/">Reverse Substrings Between Each Pair of Parentheses</a> | <a href="/code/python/1190.py">Python</a>  | Medium |
@@ -82,6 +83,7 @@
 | 1530 | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/">Number of Good Leaf Nodes Pairs</a> | <a href="/code/cpp/1530.cpp">C++</a> | Medium |
 | 1541 | <a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/">Minimum Insertions to Balance a Parentheses String</a> | <a href="/code/cpp/1541.cpp">C++</a> | Medium |
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
+| 1593 | <a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/">Split a String Into the Max Number of Unique Substrings</a> | <a href="/code/cpp/1593.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1670 | <a href="https://leetcode.com/problems/design-front-middle-back-queue/">Design Front Middle Back Queue</a> | <a href="/code/python/1670.py">Python</a> | Medium |
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
