@@ -67,6 +67,7 @@
 | 1106 | <a href="https://leetcode.com/problems/parsing-a-boolean-expression/">Parsing A Boolean Expression</a> | <a href="/code/cpp/1106.cpp">C++</a> | Hard |
 | 1110 | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">Delete Nodes And Return Forest</a> | <a href="/code/cpp/1110.cpp">C++</a> | Medium |
 | 1146 | <a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a> | <a href="/code/cpp/1146.cpp">C++</a> | Medium |
+| 1161 | <a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">Maximum Level Sum of a Binary Tree</a> | <a href="/code/cpp/1161.cpp">C++</a> | Medium |
 | 1190 | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/">Reverse Substrings Between Each Pair of Parentheses</a> | <a href="/code/python/1190.py">Python</a>  | Medium |
 | 1208 | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a> | <a href="/code/cpp/1208.cpp">C++</a> | Medium |
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
