@@ -71,6 +71,7 @@
 | 1161 | <a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">Maximum Level Sum of a Binary Tree</a> | <a href="/code/cpp/1161.cpp">C++</a> | Medium |
 | 1190 | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/">Reverse Substrings Between Each Pair of Parentheses</a> | <a href="/code/python/1190.py">Python</a>  | Medium |
 | 1208 | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a> | <a href="/code/cpp/1208.cpp">C++</a> | Medium |
+| 1233 | <a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/">Remove Sub-Folders from the Filesystem</a> | <a href="/code/cpp/1233.cpp">C++</a> | Medium |
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
 | 1282 | <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a> | <a href="/code/cpp/1282.cpp">C++</a> <a href="/code/python/1282.py">Python</a> | Medium |
 | 1310 | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/">XOR Queries of a Subarray</a> | <a href="/code/python/1310.py">Python</a> | Medium |
