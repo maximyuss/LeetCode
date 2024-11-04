@@ -27,6 +27,7 @@
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
 | 438 | <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a> | <a href="/code/python/438.py">Python</a> | Medium |
+| 443 | <a href="https://leetcode.com/problems/string-compression/">String Compression</a> | <a href="/code/python/443.py">Python</a> | Medium |
 | 472 | <a href="https://leetcode.com/problems/concatenated-words/">Concatenated Words</a> | <a href="/code/python/472.py">Python</a> | Hard |
 | 501 | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a> | <a href="/code/cpp/501.cpp">C++</a> <a href="/code/python/501.py">Python</a> | Easy |
 | 502 | <a href="https://leetcode.com/problems/ipo/">IPO</a> | <a href="/code/cpp/502.cpp">C++</a> <a href="/code/python/502.py">Python</a> | Hard |
