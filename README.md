@@ -106,6 +106,7 @@
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
 | 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
+| 2064 | <a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/">Minimized Maximum of Products Distributed to Any Store</a> | <a href="/code/python/2064.py">Python</a> | Medium |
 | 2069 | <a href="https://leetcode.com/problems/walking-robot-simulation-ii/">Walking Robot Simulation II</a> | <a href="/code/python/2069.py">Python</a> | Medium |
 | 2070 | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/">Most Beautiful Item for Each Query</a> | <a href="/code/python/2070.py">Python</a> | Medium |
 | 2074 | <a href="https://leetcode.com/problems/reverse-nodes-in-even-length-groups/">Reverse Nodes in Even Length Groups</a> | <a href="/code/python/2074.py">Python</a> | Medium |
@@ -125,6 +126,7 @@
 | 2491 | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/">Divide Players Into Teams of Equal Skill</a> | <a href="/code/python/2491.py">Python</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
+| 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
 | 2583 | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/">Kth Largest Sum in a Binary Tree</a> | <a href="/code/cpp/2583.cpp">C++</a> | Medium |
 | 2641 | <a href="https://leetcode.com/problems/cousins-in-binary-tree-ii/">Cousins in Binary Tree II</a> | <a href="/code/cpp/2641.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
