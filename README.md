@@ -88,6 +88,7 @@
 | 1530 | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/">Number of Good Leaf Nodes Pairs</a> | <a href="/code/cpp/1530.cpp">C++</a> | Medium |
 | 1541 | <a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/">Minimum Insertions to Balance a Parentheses String</a> | <a href="/code/cpp/1541.cpp">C++</a> | Medium |
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
+| 1574 | <a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/">Shortest Subarray to be Removed to Make Array Sorted</a> | <a href="/code/cpp/1574.cpp">C++</a> | Medium |
 | 1593 | <a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/">Split a String Into the Max Number of Unique Substrings</a> | <a href="/code/cpp/1593.cpp">C++</a> | Medium |
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1670 | <a href="https://leetcode.com/problems/design-front-middle-back-queue/">Design Front Middle Back Queue</a> | <a href="/code/python/1670.py">Python</a> | Medium |
