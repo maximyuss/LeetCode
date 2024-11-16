@@ -136,3 +136,4 @@
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
+| 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
