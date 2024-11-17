@@ -53,6 +53,7 @@
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
+| 862 | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a> | <a href="/code/python/862.py">Python</a> | Hard |
 | 874 | <a href="https://leetcode.com/problems/walking-robot-simulation/">Walking Robot Simulation</a> | <a href="/code/python/874.py">Python</a> | Medium |
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 921 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">Minimum Add to Make Parentheses Valid</a> | <a href="/code/cpp/921.cpp">C++</a> | Medium |
@@ -123,6 +124,7 @@
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
 | 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
 | 2458 | <a href="https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/">Height of Binary Tree After Subtree Removal Queries</a> | <a href="/code/cpp/2458.cpp">C++</a> | Hard |
+| 2461 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">Maximum Sum of Distinct Subarrays With Length K</a> | <a href="/code/python/2461.py">Python</a> | Medium |
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2491 | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/">Divide Players Into Teams of Equal Skill</a> | <a href="/code/python/2491.py">Python</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
