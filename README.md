@@ -118,6 +118,7 @@
 | 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
 | 2182 | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/">Construct String With Repeat Limit</a> | <a href="/code/python/2182.py">Python</a> | Medium |
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
+| 2257 | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/">Count Unguarded Cells in the Grid</a> | <a href="/code/python/2257.py">Python</a> | Medium |
 | 2265 | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a> | <a href="/code/cpp/2265.cpp">C++</a> <a href="/code/python/2265.py">Python</a> | Medium |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
