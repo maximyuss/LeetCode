@@ -77,6 +77,7 @@
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
 | 1277 | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a> | <a href="/code/python/1277.py">Python</a> | Medium |
 | 1282 | <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a> | <a href="/code/cpp/1282.cpp">C++</a> <a href="/code/python/1282.py">Python</a> | Medium |
+| 1293 | <a href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">Shortest Path in a Grid with Obstacles Elimination</a> | <a href="/code/python/1293.py">Python</a> | Hard |
 | 1310 | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/">XOR Queries of a Subarray</a> | <a href="/code/python/1310.py">Python</a> | Medium |
 | 1365 | <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a> | <a href="/code/cpp/1365.cpp">C++</a> <a href="/code/python/1365.py">Python</a> | Easy |
 | 1367 | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/">Linked List in Binary Tree</a> | <a href="/code/cpp/1367.cpp">C++</a> | Medium |
@@ -142,3 +143,4 @@
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
 | 3243 | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/">Shortest Distance After Road Addition Queries I</a> | <a href="/code/python/3243.py">Python</a> | Medium |
 | 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
+| 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium |
