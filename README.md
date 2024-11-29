@@ -1,5 +1,5 @@
-| # | Title | Solution | Difficulty |
-| :--- | :--- | :--- | :---: |
+| # | Title | Solution | Difficulty | Tags |
+| :--- | :--- | :--- | :---: | :---: |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a> <a href="/code/python/46.py">Python</a> | Medium |
@@ -77,7 +77,7 @@
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
 | 1277 | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a> | <a href="/code/python/1277.py">Python</a> | Medium |
 | 1282 | <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a> | <a href="/code/cpp/1282.cpp">C++</a> <a href="/code/python/1282.py">Python</a> | Medium |
-| 1293 | <a href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">Shortest Path in a Grid with Obstacles Elimination</a> | <a href="/code/python/1293.py">Python</a> | Hard |
+| 1293 | <a href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">Shortest Path in a Grid with Obstacles Elimination</a> | <a href="/code/python/1293.py">Python</a> | Hard | Shortest Path |
 | 1310 | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/">XOR Queries of a Subarray</a> | <a href="/code/python/1310.py">Python</a> | Medium |
 | 1365 | <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a> | <a href="/code/cpp/1365.cpp">C++</a> <a href="/code/python/1365.py">Python</a> | Easy |
 | 1367 | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/">Linked List in Binary Tree</a> | <a href="/code/cpp/1367.cpp">C++</a> | Medium |
@@ -87,6 +87,7 @@
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
 | 1497 | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a> | <a href="/code/python/1497.py">Python</a> | Medium |
 | 1509 | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">Minimum Difference Between Largest and Smallest Value in Three Moves</a> | <a href="/code/cpp/1509.cpp">C++</a> <a href="/code/python/1509.py">Python</a>  | Medium |
+| 1514 | <a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a> | <a href="/code/python/1514.py">Python</a> | Medium | Shortest Path |
 | 1530 | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/">Number of Good Leaf Nodes Pairs</a> | <a href="/code/cpp/1530.cpp">C++</a> | Medium |
 | 1541 | <a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/">Minimum Insertions to Balance a Parentheses String</a> | <a href="/code/cpp/1541.cpp">C++</a> | Medium |
 | 1552 | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">Magnetic Force Between Two Balls</a> | <a href="/code/cpp/1552.cpp">C++</a> | Medium |
@@ -121,7 +122,7 @@
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
 | 2257 | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/">Count Unguarded Cells in the Grid</a> | <a href="/code/python/2257.py">Python</a> | Medium |
 | 2265 | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a> | <a href="/code/cpp/2265.cpp">C++</a> <a href="/code/python/2265.py">Python</a> | Medium |
-| 2290 | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">Minimum Obstacle Removal to Reach Corner</a> | <a href="/code/python/2290.py">Python</a> | Hard |
+| 2290 | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">Minimum Obstacle Removal to Reach Corner</a> | <a href="/code/python/2290.py">Python</a> | Hard | Shortest Path |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
@@ -133,6 +134,7 @@
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
+| 2577 | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/">Minimum Time to Visit a Cell In a Grid</a> | <a href="/code/python/2577.py">Python</a> | Hard | Shortest Path |
 | 2583 | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/">Kth Largest Sum in a Binary Tree</a> | <a href="/code/cpp/2583.cpp">C++</a> | Medium |
 | 2641 | <a href="https://leetcode.com/problems/cousins-in-binary-tree-ii/">Cousins in Binary Tree II</a> | <a href="/code/cpp/2641.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
@@ -143,4 +145,4 @@
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
 | 3243 | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/">Shortest Distance After Road Addition Queries I</a> | <a href="/code/python/3243.py">Python</a> | Medium |
 | 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
-| 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium |
+| 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium | Shortest Path |
