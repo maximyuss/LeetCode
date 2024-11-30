@@ -116,6 +116,7 @@
 | 2069 | <a href="https://leetcode.com/problems/walking-robot-simulation-ii/">Walking Robot Simulation II</a> | <a href="/code/python/2069.py">Python</a> | Medium |
 | 2070 | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/">Most Beautiful Item for Each Query</a> | <a href="/code/python/2070.py">Python</a> | Medium |
 | 2074 | <a href="https://leetcode.com/problems/reverse-nodes-in-even-length-groups/">Reverse Nodes in Even Length Groups</a> | <a href="/code/python/2074.py">Python</a> | Medium |
+| 2097 | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/">Valid Arrangement of Pairs</a> | <a href="/code/python/2097.py">Python</a> | Hard | Graph |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2196 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">Create Binary Tree From Descriptions</a> | <a href="/code/cpp/2196.cpp">C++</a> <a href="/code/python/2196.py">Python</a> | Medium |
