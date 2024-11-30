@@ -1,5 +1,5 @@
-| # | Title | Solution | Difficulty | Tags |
-| :--- | :--- | :--- | :---: | :------------------: |
+| # | Title | Solution | Difficulty |'    Tags     '|
+| :--- | :--- | :--- | :---: | :---: |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a> <a href="/code/python/46.py">Python</a> | Medium |
