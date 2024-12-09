@@ -2,7 +2,7 @@
 | :--- | :--- | :--- | :---: | :---: |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
-| 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a> <a href="/code/python/46.py">Python</a> | Medium |
+| 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a>&nbsp;<a href="/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="/code/cpp/50.cpp">C++</a> | Medium |
 | 54 | <a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a> | <a href="/code/python/54.py">Python</a> | Medium |
 | 69 | <a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a> | <a href="/code/cpp/69.cpp">C++</a> | Easy |
@@ -149,4 +149,4 @@
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
 | 3243 | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/">Shortest Distance After Road Addition Queries I</a> | <a href="/code/python/3243.py">Python</a> | Medium |
 | 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
-| 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium | Shortest Path |
+| 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium | Shortest&nbsp;Path |
