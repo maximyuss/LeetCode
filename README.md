@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Tags |
 | :--- | :--- | :--- | :---: | :---: |
+| 3 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a> | <a href="/code/python/3.py">Python</a> | Medium |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a>&nbsp;<a href="/code/python/46.py">Python</a> | Medium |
