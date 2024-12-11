@@ -144,6 +144,7 @@
 | 2641 | <a href="https://leetcode.com/problems/cousins-in-binary-tree-ii/">Cousins in Binary Tree II</a> | <a href="/code/cpp/2641.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
 | 2707 | <a href="https://leetcode.com/problems/extra-characters-in-a-string/">Extra Characters in a String</a> | <a href="/code/python/2707.py">Python</a> | Medium |
+| 2779 | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/">Maximum Beauty of an Array After Applying Operation</a> | <a href="/code/python/2779.py">Python</a> | Medium |
 | 2981 | <a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/">Find Longest Special Substring That Occurs Thrice I</a> | <a href="/code/python/2981.py">Python</a> | Medium |
 | 2938 | <a href="https://leetcode.com/problems/separate-black-and-white-balls/">Separate Black and White Balls</a> | <a href="/code/cpp/2938.cpp">C++</a> | Medium |
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
