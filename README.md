@@ -18,6 +18,7 @@
 | 200 | <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a> | <a href="/code/python/200.py">Python</a> | Medium |
 | 207 | <a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a> | <a href="/code/python/207.py">Python</a> | Medium | Graph |
 | 208 | <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> | <a href="/code/cpp/208.cpp">C++</a> | Medium |
+| 210 | <a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a> | <a href="/code/python/210.py">Python</a> | Medium | Graph |
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
