@@ -21,6 +21,7 @@
 | 210 | <a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a> | <a href="/code/python/210.py">Python</a> | Medium | Graph |
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
+| 239 | <a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding Window Maximum</a> | <a href="/code/cpp/239.cpp">C++</a> | Hard |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 289 | <a href="https://leetcode.com/problems/game-of-life/">Game of Life</a> | <a href="/code/python/289.py">Python</a> | Medium |
 | 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> | Medium |
@@ -104,6 +105,7 @@
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
 | 1701 | <a href="https://leetcode.com/problems/average-waiting-time/">Average Waiting Time</a> | <a href="/code/python/1701.py">Python</a> | Medium |
 | 1754 | <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">Largest Merge Of Two Strings</a> | <a href="/code/cpp/1754.cpp">C++</a> | Medium |
+| 1792 | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/">Maximum Average Pass Ratio</a> | <a href="/code/cpp/1792.cpp">C++</a> | Medium |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1813 | <a href="https://leetcode.com/problems/sentence-similarity-iii/">Sentence Similarity III</a> | <a href="/code/python/1813.py">Python</a> | Medium |
 | 1823 | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/">Find the Winner of the Circular Game</a> | <a href="/code/python/1823.py">Python</a> | Medium |
