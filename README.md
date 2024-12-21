@@ -75,6 +75,7 @@
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
+| 1026 | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a> | <a href="/code/python/1026.py">Python</a> | Medium | Binary Tree |
 | 1028 | <a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">Recover a Tree From Preorder Traversal</a> | <a href="/code/python/1028.py">Python</a> | Hard | Binary Tree |
 | 1038 | <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">Binary Search Tree to Greater Sum Trees</a> | <a href="/code/cpp/1038.cpp">C++</a> <a href="/code/python/1038.py">Python</a>  | Medium |
 | 1052 | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a> | <a href="/code/cpp/1052.cpp">C++</a> | Medium |
