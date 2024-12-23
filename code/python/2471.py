@@ -23,6 +23,6 @@ class Solution:
                 if pos != i:
                     nodes[i], nodes[pos] = nodes[pos], nodes[i]
                     res += 1
-                    i -= 1
-                i += 1
+                else:
+                    i += 1
         return res
