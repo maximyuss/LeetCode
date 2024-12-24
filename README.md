@@ -90,7 +90,7 @@
 | 1208 | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a> | <a href="/code/cpp/1208.cpp">C++</a> | Medium |
 | 1233 | <a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/">Remove Sub-Folders from the Filesystem</a> | <a href="/code/cpp/1233.cpp">C++</a> | Medium |
 | 1248 | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/">Count Number of Nice Subarrays</a> | <a href="/code/cpp/1248.cpp">C++</a> <a href="/code/python/1248.py">Python</a> | Medium |
-| 1261 | <a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a> | <a href="/code/python/1261.py">Python</a> | Medium |
+| 1261 | <a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a> | <a href="/code/cpp/1261.cpp">C++</a> <a href="/code/python/1261.py">Python</a> | Medium |
 | 1277 | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a> | <a href="/code/python/1277.py">Python</a> | Medium |
 | 1282 | <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a> | <a href="/code/cpp/1282.cpp">C++</a> <a href="/code/python/1282.py">Python</a> | Medium |
 | 1293 | <a href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">Shortest Path in a Grid with Obstacles Elimination</a> | <a href="/code/python/1293.py">Python</a> | Hard | Shortest Path |
