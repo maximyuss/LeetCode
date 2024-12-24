@@ -178,3 +178,4 @@
 | 3243 | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/">Shortest Distance After Road Addition Queries I</a> | <a href="/code/python/3243.py">Python</a> | Medium |
 | 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
 | 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium | Shortest&nbsp;Path |
+| 3367 | <a href="https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/">Maximize Sum of Weights after Edge Removals</a> | <a href="/code/python/3367.py">Python</a> | Hard | Tree |
