@@ -57,6 +57,7 @@
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
 | 654 | <a href="https://leetcode.com/problems/maximum-binary-tree/">Maximum Binary Tree</a> | <a href="/code/python/654.py">Python</a> | Medium |
 | 670 | <a href="https://leetcode.com/problems/maximum-swap/">Maximum Swap</a> | <a href="/code/cpp/670.cpp">C++</a> | Medium |
+| 689 | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">Maximum Sum of 3 Non-Overlapping Subarrays</a> | <a href="/code/python/689.py">Python</a> | Hard |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
 | 725 | <a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a> | <a href="/code/python/725.py">Python</a> | Medium |
 | 729 | <a href="https://leetcode.com/problems/my-calendar-I/">My Calendar I</a> | <a href="/code/cpp/729.cpp">C++</a> <a href="/code/python/729.py">Python</a> | Medium |
