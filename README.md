@@ -65,6 +65,7 @@
 | 767 | <a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a> | <a href="/code/cpp/767.cpp">C++</a> | Medium |
 | 769 | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">Max Chunks To Make Sorted</a> | <a href="/code/python/769.py">Python</a> | Medium |
 | 787 | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">Cheapest Flights Within K Stops</a> | <a href="/code/python/787.py">Python</a> | Medium | Shortest Path |
+| 807 | <a href="https://leetcode.com/problems/max-increase-to-keep-city-skyline/">Max Increase to Keep City Skyline</a> | <a href="/code/python/807.py">Python</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
