@@ -123,6 +123,7 @@
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
 | 1701 | <a href="https://leetcode.com/problems/average-waiting-time/">Average Waiting Time</a> | <a href="/code/python/1701.py">Python</a> | Medium |
 | 1754 | <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">Largest Merge Of Two Strings</a> | <a href="/code/cpp/1754.cpp">C++</a> | Medium |
+| 1769 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/">Minimum Number of Operations to Move All Balls to Each Box</a> | <a href="/code/python/1769.py">Python</a> | Medium |
 | 1792 | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/">Maximum Average Pass Ratio</a> | <a href="/code/cpp/1792.cpp">C++</a> | Medium |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
 | 1813 | <a href="https://leetcode.com/problems/sentence-similarity-iii/">Sentence Similarity III</a> | <a href="/code/python/1813.py">Python</a> | Medium |
