@@ -80,6 +80,7 @@
 | 962 | <a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a> | <a href="/code/cpp/962.cpp">C++</a> | Medium |
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
+| 983 | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum Cost For Tickets</a> | <a href="/code/cpp/983.cpp">C++</a> | Medium |
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
 | 1014 | <a href="https://leetcode.com/problems/best-sightseeing-pair/">Best Sightseeing Pair</a> | <a href="/code/cpp/1014.cpp">C++</a> | Medium |
 | 1026 | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a> | <a href="/code/python/1026.py">Python</a> | Medium | Binary Tree |
