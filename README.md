@@ -166,6 +166,7 @@
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2471 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/">Minimum Number of Operations to Sort a Binary Tree by Level</a> | <a href="/code/python/2471.py">Python</a> | Medium |
 | 2491 | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/">Divide Players Into Teams of Equal Skill</a> | <a href="/code/python/2491.py">Python</a> | Medium |
+| 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
