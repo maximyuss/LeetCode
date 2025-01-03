@@ -153,6 +153,7 @@
 | 2233 | <a href="https://leetcode.com/problems/maximum-product-after-k-increments/">Maximum Product After K Increments</a> | <a href="/code/cpp/2233.cpp">C++</a> <a href="/code/python/2233.py">Python</a> | Medium |
 | 2257 | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/">Count Unguarded Cells in the Grid</a> | <a href="/code/python/2257.py">Python</a> | Medium |
 | 2265 | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a> | <a href="/code/cpp/2265.cpp">C++</a> <a href="/code/python/2265.py">Python</a> | Medium |
+| 2270 | <a href="https://leetcode.com/problems/number-of-ways-to-split-array/">Number of Ways to Split Array</a> | <a href="/code/cpp/2270.cpp">C++</a> | Medium |
 | 2290 | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">Minimum Obstacle Removal to Reach Corner</a> | <a href="/code/python/2290.py">Python</a> | Hard | Shortest Path |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
