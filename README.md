@@ -160,6 +160,7 @@
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2337 | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/">Move Pieces to Obtain a String</a> | <a href="/code/python/2337.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
+| 2381 | <a href="https://leetcode.com/problems/shifting-letters-ii/">Shifting Letters II</a> | <a href="/code/cpp/2381.cpp">C++</a> | Medium |
 | 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
 | 2451 | <a href="https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/">Reverse Odd Levels of Binary Tree</a> | <a href="/code/python/24513.py">Python</a> | Medium | Binary Tree
 | 2458 | <a href="https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/">Height of Binary Tree After Subtree Removal Queries</a> | <a href="/code/cpp/2458.cpp">C++</a> | Hard |
