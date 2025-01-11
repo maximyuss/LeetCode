@@ -108,6 +108,7 @@
 | 1367 | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/">Linked List in Binary Tree</a> | <a href="/code/cpp/1367.cpp">C++</a> | Medium |
 | 1381 | <a href="https://leetcode.com/problems/design-a-stack-with-increment-operation/">Design a Stack With Increment Operation</a> | <a href="/code/python/1381.py">Python</a> | Medium |
 | 1382 | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</a> | <a href="/code/cpp/1382.cpp">C++</a> <a href="/code/python/1382.py">Python</a> | Medium |
+| 1400 | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/">Construct K Palindrome Strings</a> | <a href="/code/cpp/1400.cpp">C++</a> <a href="/code/python/1400.py">Python</a> | Medium |
 | 1476 | <a href="https://leetcode.com/problems/subrectangle-queries/">Subrectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
 | 1497 | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a> | <a href="/code/python/1497.py">Python</a> | Medium |
