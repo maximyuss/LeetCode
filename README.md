@@ -150,6 +150,7 @@
 | 2097 | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/">Valid Arrangement of Pairs</a> | <a href="/code/python/2097.py">Python</a> | Hard | Graph |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
+| 2166 | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/">Check if a Parentheses String Can Be Valid</a> | <a href="/code/python/2166.py">Python</a> | Medium |
 | 2196 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">Create Binary Tree From Descriptions</a> | <a href="/code/cpp/2196.cpp">C++</a> <a href="/code/python/2196.py">Python</a> | Medium |
 | 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
 | 2182 | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/">Construct String With Repeat Limit</a> | <a href="/code/python/2182.py">Python</a> | Medium |
