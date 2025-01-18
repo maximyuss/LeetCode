@@ -14,6 +14,7 @@
 | 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |
 | 102 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a> | <a href="/code/python/102.py">Python</a> | Medium |
 | 113 | <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a> | <a href="/code/python/113.py">Python</a> | Medium |
+| 128 | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a> | <a href="/code/python/128.py">Python</a> | Medium |
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
