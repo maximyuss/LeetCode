@@ -177,6 +177,7 @@
 | 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
+| 2556 | <a href="https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/">Disconnect Path in a Binary Matrix by at Most One Flip</a> | <a href="/code/python/2556.py">Python</a> | Medium | Shortest Path |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
 | 2577 | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/">Minimum Time to Visit a Cell In a Grid</a> | <a href="/code/python/2577.py">Python</a> | Hard | Shortest Path |
 | 2583 | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/">Kth Largest Sum in a Binary Tree</a> | <a href="/code/cpp/2583.cpp">C++</a> | Medium |
