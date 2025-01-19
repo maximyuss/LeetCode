@@ -36,6 +36,7 @@
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 395 | <a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">Longest Substring with At Least K Repeating Characters</a> | <a href="/code/python/395.py">Python</a> | Medium |
+| 407 | <a href="https://leetcode.com/problems/trapping-rain-water-ii/">Trapping Rain Water II</a> | <a href="/code/python/407.py">Python</a> | Hard |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
 | 438 | <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a> | <a href="/code/python/438.py">Python</a> | Medium |
 | 443 | <a href="https://leetcode.com/problems/string-compression/">String Compression</a> | <a href="/code/python/443.py">Python</a> | Medium |
