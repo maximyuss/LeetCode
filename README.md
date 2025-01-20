@@ -187,6 +187,7 @@
 | 2583 | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/">Kth Largest Sum in a Binary Tree</a> | <a href="/code/cpp/2583.cpp">C++</a> | Medium |
 | 2641 | <a href="https://leetcode.com/problems/cousins-in-binary-tree-ii/">Cousins in Binary Tree II</a> | <a href="/code/cpp/2641.cpp">C++</a> | Medium |
 | 2642 | <a href="https://leetcode.com/problems/design-graph-with-shortest-path-calculator/">Design Graph With Shortest Path Calculator</a> | <a href="/code/python/2642.py">Python</a> | Hard | Shortest Path |
+| 2661 | <a href="https://leetcode.com/problems/first-completely-painted-row-or-column/">First Completely Painted Row or Column</a> | <a href="/code/python/2661.py">Python</a> | Medium |
 | 2683 | <a href="https://leetcode.com/problems/neighboring-bitwise-xor/">Neighboring Bitwise XOR</a> | <a href="/code/cpp/2683.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
 | 2707 | <a href="https://leetcode.com/problems/extra-characters-in-a-string/">Extra Characters in a String</a> | <a href="/code/python/2707.py">Python</a> | Medium |
