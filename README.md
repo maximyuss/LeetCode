@@ -145,6 +145,7 @@
 | 1944 | <a href="https://leetcode.com/problems/number-of-visible-people-in-a-queue/">Number of Visible People in a Queue</a> | <a href="/code/python/1944.py">Python</a> | Hard |
 | 1963 | <a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a> | <a href="/code/cpp/1963.cpp">C++</a> | Medium |
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
+| 2017 | <a href="https://leetcode.com/problems/grid-game/">Grid Game</a> | <a href="/code/python/2017.py">Python</a> | Medium |
 | 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
 | 2064 | <a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/">Minimized Maximum of Products Distributed to Any Store</a> | <a href="/code/python/2064.py">Python</a> | Medium |
@@ -175,9 +176,10 @@
 | 2458 | <a href="https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/">Height of Binary Tree After Subtree Removal Queries</a> | <a href="/code/cpp/2458.cpp">C++</a> | Hard |
 | 2461 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">Maximum Sum of Distinct Subarrays With Length K</a> | <a href="/code/python/2461.py">Python</a> | Medium |
 | 2466 | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/">Count Ways To Build Good Strings</a> | <a href="/code/python/2466.py">Python</a> | Medium |
-| 2482 | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">Difference Between Ones and Zeros in Row and Column</a> | <a href="/code/python/2482.py">Python</a> | Medium |
-| 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2471 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/">Minimum Number of Operations to Sort a Binary Tree by Level</a> | <a href="/code/python/2471.py">Python</a> | Medium |
+| 2482 | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">Difference Between Ones and Zeros in Row and Column</a> | <a href="/code/python/2482.py">Python</a> | Medium |
+| 2483 | <a href="https://leetcode.com/problems/minimum-penalty-for-a-shop/">Minimum Penalty for a Shop</a> | <a href="/code/python/2483.py">Python</a> | Medium |
+| 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2491 | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/">Divide Players Into Teams of Equal Skill</a> | <a href="/code/python/2491.py">Python</a> | Medium |
 | 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
