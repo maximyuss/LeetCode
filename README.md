@@ -49,6 +49,7 @@
 | 523 | <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a> | <a href="/code/cpp/523.cpp">C++</a> <a href="/code/python/523.py">Python</a> | Medium |
 | 539 | <a href="https://leetcode.com/problems/minimum-time-difference/">Minimum Time Difference</a> | <a href="/code/cpp/539.cpp">C++</a> <a href="/code/python/539.py">Python</a> | Medium |
 | 540 | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a> | <a href="/code/cpp/540.cpp">C++</a> | Medium |
+| 542 | <a href="https://leetcode.com/problems/01-matrix/">01 Matrix</a> | <a href="/code/python/542.py">Python</a> | Medium |
 | 560 | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a> | <a href="/code/cpp/560.cpp">C++</a> <a href="/code/python/560.py">Python</a> | Medium |
 | 567 | <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a> | <a href="/code/python/567.py">Python</a> | Medium |
 | 592 | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">592. Fraction Addition and Subtraction</a> | <a href="/code/python/592.py">Python</a> | Medium |
@@ -131,6 +132,7 @@
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
 | 1701 | <a href="https://leetcode.com/problems/average-waiting-time/">Average Waiting Time</a> | <a href="/code/python/1701.py">Python</a> | Medium |
 | 1754 | <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">Largest Merge Of Two Strings</a> | <a href="/code/cpp/1754.cpp">C++</a> | Medium |
+| 1765 | <a href="https://leetcode.com/problems/map-of-highest-peak/">Map of Highest Peak</a> | <a href="/code/cpp/1765.cpp">C++</a> | Medium |
 | 1769 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/">Minimum Number of Operations to Move All Balls to Each Box</a> | <a href="/code/python/1769.py">Python</a> | Medium |
 | 1792 | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/">Maximum Average Pass Ratio</a> | <a href="/code/cpp/1792.cpp">C++</a> | Medium |
 | 1798 | <a href="https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/">Maximum Number of Consecutive Values You Can Make</a> | <a href="/code/cpp/1798.cpp">C++</a> | Medium |
