@@ -2,6 +2,7 @@
 | :--- | :--- | :--- | :---: | :---: |
 | 3 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a> | <a href="/code/python/3.py">Python</a> | Medium |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
+| 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
 | 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a>&nbsp;<a href="/code/python/46.py">Python</a> | Medium |
