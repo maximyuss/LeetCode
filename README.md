@@ -73,6 +73,7 @@
 | 767 | <a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a> | <a href="/code/cpp/767.cpp">C++</a> | Medium |
 | 769 | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">Max Chunks To Make Sorted</a> | <a href="/code/python/769.py">Python</a> | Medium |
 | 787 | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">Cheapest Flights Within K Stops</a> | <a href="/code/python/787.py">Python</a> | Medium | Shortest Path |
+| 802 | <a href="https://leetcode.com/problems/find-eventual-safe-states/">Find Eventual Safe States</a> | <a href="/code/python/802.py">Python</a> | Medium | Graph |
 | 807 | <a href="https://leetcode.com/problems/max-increase-to-keep-city-skyline/">Max Increase to Keep City Skyline</a> | <a href="/code/python/807.py">Python</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
@@ -176,6 +177,7 @@
 | 2337 | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/">Move Pieces to Obtain a String</a> | <a href="/code/python/2337.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
 | 2381 | <a href="https://leetcode.com/problems/shifting-letters-ii/">Shifting Letters II</a> | <a href="/code/cpp/2381.cpp">C++</a> | Medium |
+| 2392 | <a href="https://leetcode.com/problems/build-a-matrix-with-conditions/">Build a Matrix With Conditions</a> | <a href="/code/python/2392.py">Python</a> | Hard | Topological Sort |
 | 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
 | 2425 | <a href="https://leetcode.com/problems/bitwise-xor-of-all-pairings/">Bitwise XOR of All Pairings</a> | <a href="/code/python/2425.py">Python</a> | Medium |
 | 2451 | <a href="https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/">Reverse Odd Levels of Binary Tree</a> | <a href="/code/python/24513.py">Python</a> | Medium | Binary Tree
