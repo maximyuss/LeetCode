@@ -209,6 +209,7 @@
 | 2872 | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/">Maximum Number of K-Divisible Components</a> | <a href="/code/python/2872.py">Python</a> | Hard | Tree |
 | 2981 | <a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/">Find Longest Special Substring That Occurs Thrice I</a> | <a href="/code/python/2981.py">Python</a> | Medium |
 | 2938 | <a href="https://leetcode.com/problems/separate-black-and-white-balls/">Separate Black and White Balls</a> | <a href="/code/cpp/2938.cpp">C++</a> | Medium |
+| 2948 | <a href="https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/">Make Lexicographically Smallest Array by Swapping Elements</a> | <a href="/code/python/2948.py">Python</a> | Medium |
 | 2984 | <a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/">Find Building Where Alice and Bob Can Meet</a> | <a href="/code/python/2984.py">Python</a> | Hard |
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
