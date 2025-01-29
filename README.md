@@ -65,6 +65,7 @@
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
 | 654 | <a href="https://leetcode.com/problems/maximum-binary-tree/">Maximum Binary Tree</a> | <a href="/code/python/654.py">Python</a> | Medium |
 | 670 | <a href="https://leetcode.com/problems/maximum-swap/">Maximum Swap</a> | <a href="/code/cpp/670.cpp">C++</a> | Medium |
+| 684 | <a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</a> | <a href="/code/python/684.py">Python</a> | Medium | DSU |
 | 689 | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">Maximum Sum of 3 Non-Overlapping Subarrays</a> | <a href="/code/python/689.py">Python</a> | Hard |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
 | 725 | <a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a> | <a href="/code/python/725.py">Python</a> | Medium |
