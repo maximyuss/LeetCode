@@ -78,6 +78,7 @@
 | 802 | <a href="https://leetcode.com/problems/find-eventual-safe-states/">Find Eventual Safe States</a> | <a href="/code/python/802.py">Python</a> | Medium | Graph |
 | 807 | <a href="https://leetcode.com/problems/max-increase-to-keep-city-skyline/">Max Increase to Keep City Skyline</a> | <a href="/code/python/807.py">Python</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
+| 827 | <a href="https://leetcode.com/problems/making-a-large-island/">Making A Large Island</a> | <a href="/code/python/827.py">Python</a> | Hard |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
 | 862 | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a> | <a href="/code/python/862.py">Python</a> | Hard |
