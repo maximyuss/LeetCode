@@ -207,6 +207,7 @@
 | 2661 | <a href="https://leetcode.com/problems/first-completely-painted-row-or-column/">First Completely Painted Row or Column</a> | <a href="/code/python/2661.py">Python</a> | Medium |
 | 2683 | <a href="https://leetcode.com/problems/neighboring-bitwise-xor/">Neighboring Bitwise XOR</a> | <a href="/code/cpp/2683.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
+| 2669 | <a href="https://leetcode.com/problems/modify-graph-edge-weights/">Modify Graph Edge Weights</a> | <a href="/code/python/2669.py">Python</a> | Hard | Shortest Path |
 | 2707 | <a href="https://leetcode.com/problems/extra-characters-in-a-string/">Extra Characters in a String</a> | <a href="/code/python/2707.py">Python</a> | Medium |
 | 2762 | <a href="https://leetcode.com/problems/continuous-subarrays/">Continuous Subarrays</a> | <a href="/code/python/2762.py">Python</a> | Medium |
 | 2779 | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/">Maximum Beauty of an Array After Applying Operation</a> | <a href="/code/python/2779.py">Python</a> | Medium |
