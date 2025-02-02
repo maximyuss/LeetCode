@@ -139,6 +139,7 @@
 | 1608 | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Special Array With X Elements Greater Than or Equal X</a> | <a href="/code/cpp/1608.cpp">C++</a> | Easy |
 | 1639 | <a href="https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/">Number of Ways to Form a Target String Given a Dictionary</a> | <a href="/code/python/1639.py">Python</a> | Hard |
 | 1642 | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/">Furthest Building You Can Reach</a> | <a href="/code/cpp/1642.cpp">C++</a> | Medium |
+| 1653 | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/">Minimum Deletions to Make String Balanced</a> | <a href="/code/python/1653.py">Python</a> | Medium |
 | 1670 | <a href="https://leetcode.com/problems/design-front-middle-back-queue/">Design Front Middle Back Queue</a> | <a href="/code/python/1670.py">Python</a> | Medium |
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
 | 1701 | <a href="https://leetcode.com/problems/average-waiting-time/">Average Waiting Time</a> | <a href="/code/python/1701.py">Python</a> | Medium |
