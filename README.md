@@ -67,6 +67,7 @@
 | 641 | <a href="https://leetcode.com/problems/design-circular-deque/">Design Circular Deque</a> | <a href="/code/python/641.py">Python</a> | Medium |
 | 648 | <a href="https://leetcode.com/problems/replace-words/">Replace Words</a> | <a href="/code/cpp/648.cpp">C++</a> | Medium |
 | 654 | <a href="https://leetcode.com/problems/maximum-binary-tree/">Maximum Binary Tree</a> | <a href="/code/python/654.py">Python</a> | Medium |
+| 665 | <a href="https://leetcode.com/problems/non-decreasing-array/">Non-decreasing Array</a> | <a href="/code/python/665.py">Python</a> | Medium |
 | 670 | <a href="https://leetcode.com/problems/maximum-swap/">Maximum Swap</a> | <a href="/code/cpp/670.cpp">C++</a> | Medium |
 | 684 | <a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</a> | <a href="/code/python/684.py">Python</a> | Medium | DSU |
 | 689 | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">Maximum Sum of 3 Non-Overlapping Subarrays</a> | <a href="/code/python/689.py">Python</a> | Hard |
@@ -144,6 +145,7 @@
 | 1670 | <a href="https://leetcode.com/problems/design-front-middle-back-queue/">Design Front Middle Back Queue</a> | <a href="/code/python/1670.py">Python</a> | Medium |
 | 1679 | <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a> | <a href="/code/python/1679.py">Python</a> | Medium |
 | 1701 | <a href="https://leetcode.com/problems/average-waiting-time/">Average Waiting Time</a> | <a href="/code/python/1701.py">Python</a> | Medium |
+| 1726 | <a href="https://leetcode.com/problems/tuple-with-same-product/">Tuple with Same Product</a> | <a href="/code/python/1726.py">Python</a> | Medium |
 | 1754 | <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">Largest Merge Of Two Strings</a> | <a href="/code/cpp/1754.cpp">C++</a> | Medium |
 | 1765 | <a href="https://leetcode.com/problems/map-of-highest-peak/">Map of Highest Peak</a> | <a href="/code/cpp/1765.cpp">C++</a> | Medium |
 | 1769 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/">Minimum Number of Operations to Move All Balls to Each Box</a> | <a href="/code/python/1769.py">Python</a> | Medium |
@@ -169,6 +171,7 @@
 | 2074 | <a href="https://leetcode.com/problems/reverse-nodes-in-even-length-groups/">Reverse Nodes in Even Length Groups</a> | <a href="/code/python/2074.py">Python</a> | Medium |
 | 2092 | <a href="https://leetcode.com/problems/find-all-people-with-secret/">Find All People With Secret</a> | <a href="/code/cpp/2092.cpp">C++</a> <a href="/code/python/2092.py">Python</a> | Hard | Graph |
 | 2097 | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/">Valid Arrangement of Pairs</a> | <a href="/code/python/2097.py">Python</a> | Hard | Graph |
+| 2100 | <a href="https://leetcode.com/problems/find-good-days-to-rob-the-bank/">Find Good Days to Rob the Bank</a> | <a href="/code/python/2100.py">Python</a> | Medium |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2166 | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/">Check if a Parentheses String Can Be Valid</a> | <a href="/code/python/2166.py">Python</a> | Medium |
@@ -184,6 +187,8 @@
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2337 | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/">Move Pieces to Obtain a String</a> | <a href="/code/python/2337.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
+| 2349 | <a href="https://leetcode.com/problems/design-a-number-container-system/">Design a Number Container System</a> | <a href="/code/python/2349.py">Python</a> | Medium |
+| 2364 | <a href="https://leetcode.com/problems/count-number-of-bad-pairs/">Count Number of Bad Pairs</a> | <a href="/code/python/2364.py">Python</a> | Medium |
 | 2381 | <a href="https://leetcode.com/problems/shifting-letters-ii/">Shifting Letters II</a> | <a href="/code/cpp/2381.cpp">C++</a> | Medium |
 | 2392 | <a href="https://leetcode.com/problems/build-a-matrix-with-conditions/">Build a Matrix With Conditions</a> | <a href="/code/python/2392.py">Python</a> | Hard | Topological Sort |
 | 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
@@ -223,6 +228,7 @@
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
+| 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
 | 3203 | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">Find Minimum Diameter After Merging Two Trees</a> | <a href="/code/python/3203.py">Python</a> | Hard | Tree |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
 | 3223 | <a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/">Minimum Length of String After Operations</a> | <a href="/code/python/3223.py">Python</a> | Medium |
