@@ -157,6 +157,7 @@
 | 1847 | <a href="https://leetcode.com/problems/closest-room/">Closest Room</a> | <a href="/code/python/1847.py">Python</a> | Hard |
 | 1870 | <a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a> | <a href="/code/cpp/1870.cpp">C++</a> | Medium |
 | 1905 | <a href="https://leetcode.com/problems/count-sub-islands/">Count Sub Islands</a> | <a href="/code/python/1905.py">Python</a> | Medium |
+| 1910 | <a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</a> | <a href="/code/python/1910.py">Python</a> | Medium |
 | 1930 | <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/">Unique Length-3 Palindromic Subsequences</a> | <a href="/code/cpp/1930.cpp">C++</a> <a href="/code/python/1930.py">Python</a> | Medium |
 | 1942 | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/">The Number of the Smallest Unoccupied Chair</a> | <a href="/code/cpp/1942.cpp">C++</a> | Medium |
 | 1944 | <a href="https://leetcode.com/problems/number-of-visible-people-in-a-queue/">Number of Visible People in a Queue</a> | <a href="/code/python/1944.py">Python</a> | Hard |
