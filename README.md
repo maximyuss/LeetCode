@@ -187,6 +187,7 @@
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
 | 2337 | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/">Move Pieces to Obtain a String</a> | <a href="/code/python/2337.py">Python</a> | Medium |
+| 2343 | <a href="https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/">Max Sum of a Pair With Equal Sum of Digits</a> | <a href="/code/python/2343.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
 | 2349 | <a href="https://leetcode.com/problems/design-a-number-container-system/">Design a Number Container System</a> | <a href="/code/python/2349.py">Python</a> | Medium |
 | 2364 | <a href="https://leetcode.com/problems/count-number-of-bad-pairs/">Count Number of Bad Pairs</a> | <a href="/code/python/2364.py">Python</a> | Medium |
