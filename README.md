@@ -229,6 +229,7 @@
 | 2984 | <a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/">Find Building Where Alice and Bob Can Meet</a> | <a href="/code/python/2984.py">Python</a> | Hard |
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
+| 3066 | <a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/">Minimum Operations to Exceed Threshold Value II</a> | <a href="/code/python/3066.py">Python</a> | Medium |
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
 | 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
 | 3203 | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">Find Minimum Diameter After Merging Two Trees</a> | <a href="/code/python/3203.py">Python</a> | Hard | Tree |
