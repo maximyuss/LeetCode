@@ -23,6 +23,7 @@
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
+| 155 | <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> | <a href="/code/python/155.py">Python</a> | Medium |
 | 173 | <a href="https://leetcode.com/problems/binary-search-tree-iterator/">Binary Search Tree Iterator</a> | <a href="/code/python/173.py">Python</a> | Medium |
 | 200 | <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a> | <a href="/code/python/200.py">Python</a> | Medium |
 | 207 | <a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a> | <a href="/code/python/207.py">Python</a> | Medium | Graph |
