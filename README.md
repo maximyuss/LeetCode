@@ -194,6 +194,7 @@
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
 | 2349 | <a href="https://leetcode.com/problems/design-a-number-container-system/">Design a Number Container System</a> | <a href="/code/python/2349.py">Python</a> | Medium |
 | 2364 | <a href="https://leetcode.com/problems/count-number-of-bad-pairs/">Count Number of Bad Pairs</a> | <a href="/code/python/2364.py">Python</a> | Medium |
+| 2375 | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/">Construct Smallest Number From DI String</a> | <a href="/code/python/2375.py">Python</a> | Medium |
 | 2381 | <a href="https://leetcode.com/problems/shifting-letters-ii/">Shifting Letters II</a> | <a href="/code/cpp/2381.cpp">C++</a> | Medium |
 | 2392 | <a href="https://leetcode.com/problems/build-a-matrix-with-conditions/">Build a Matrix With Conditions</a> | <a href="/code/python/2392.py">Python</a> | Hard | Topological Sort |
 | 2416 | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">Sum of Prefix Scores of Strings</a> | <a href="/code/python/2416.py">Python</a> | Hard |
