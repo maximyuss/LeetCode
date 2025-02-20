@@ -48,6 +48,7 @@
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
 | 438 | <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a> | <a href="/code/python/438.py">Python</a> | Medium |
 | 443 | <a href="https://leetcode.com/problems/string-compression/">String Compression</a> | <a href="/code/python/443.py">Python</a> | Medium |
+| 448 | <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a> | <a href="/code/python/448.py">Python</a> | Easy |
 | 472 | <a href="https://leetcode.com/problems/concatenated-words/">Concatenated Words</a> | <a href="/code/python/472.py">Python</a> | Hard |
 | 494 | <a href="https://leetcode.com/problems/target-sum/">Target Sum</a> | <a href="/code/python/494.py">Python</a> | Medium |
 | 501 | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a> | <a href="/code/cpp/501.cpp">C++</a> <a href="/code/python/501.py">Python</a> | Easy |
@@ -165,6 +166,7 @@
 | 1942 | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/">The Number of the Smallest Unoccupied Chair</a> | <a href="/code/cpp/1942.cpp">C++</a> | Medium |
 | 1944 | <a href="https://leetcode.com/problems/number-of-visible-people-in-a-queue/">Number of Visible People in a Queue</a> | <a href="/code/python/1944.py">Python</a> | Hard |
 | 1963 | <a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a> | <a href="/code/cpp/1963.cpp">C++</a> | Medium |
+| 1980 | <a href="https://leetcode.com/problems/find-unique-binary-string/">Find Unique Binary String</a> | <a href="/code/python/1980.py">Python</a> | Medium |
 | 1992 | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/">Find All Groups of Farmland</a> | <a href="/code/python/1992.py">Python</a> | Medium |
 | 2017 | <a href="https://leetcode.com/problems/grid-game/">Grid Game</a> | <a href="/code/python/2017.py">Python</a> | Medium |
 | 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
