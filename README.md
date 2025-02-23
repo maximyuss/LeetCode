@@ -23,6 +23,7 @@
 | 128 | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a> | <a href="/code/python/128.py">Python</a> | Medium |
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
+| 150 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a> | <a href="/code/python/150.py">Python</a> | Medium |
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
 | 155 | <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> | <a href="/code/python/155.py">Python</a> | Medium |
 | 173 | <a href="https://leetcode.com/problems/binary-search-tree-iterator/">Binary Search Tree Iterator</a> | <a href="/code/python/173.py">Python</a> | Medium |
