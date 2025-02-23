@@ -1,11 +1,13 @@
 | # | Title | Solution | Difficulty | Tags |
 | :--- | :--- | :--- | :---: | :---: |
 | 3 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a> | <a href="/code/python/3.py">Python</a> | Medium |
+| 11 | <a href="https://leetcode.com/problems/container-with-most-water/">Container With Most Water</a> | <a href="/code/python/11.py">Python</a> | Medium | Two Pointers |
+| 15 | <a href="https://leetcode.com/problems/3Sum/">3Sum</a> | <a href="/code/python/15.py">Python</a> | Medium | Two Pointers |
 | 23 | <a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a> | <a href="/code/cpp/23.cpp">C++</a> | Hard |
 | 25 | <a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Reverse Nodes in k-Group</a> | <a href="/code/cpp/25.cpp">C++</a> | Hard |
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
-| 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard |
+| 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard | Two Pointers |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
 | 46 | <a href="https://leetcode.com/problems/permutations/">Permutations</a> | <a href="/code/cpp/46.cpp">C++</a>&nbsp;<a href="/code/python/46.py">Python</a> | Medium |
 | 50 | <a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a> | <a href="/code/cpp/50.cpp">C++</a> | Medium |
