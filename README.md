@@ -16,6 +16,7 @@
 | 76 | <a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a> | <a href="/code/cpp/76.cpp">C++</a> | Hard |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
 | 80 | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Remove Duplicates from Sorted Array II</a> | <a href="/code/cpp/80.cpp">C++</a> | Medium |
+| 84 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest Rectangle in Histogram</a> | <a href="/code/python/84.py">Python</a> | Hard |
 | 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |
 | 102 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a> | <a href="/code/python/102.py">Python</a> | Medium |
 | 107 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Tree Level Order Traversal II</a> | <a href="/code/python/107.py">Python</a> | Medium |
