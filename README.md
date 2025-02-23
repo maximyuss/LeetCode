@@ -80,6 +80,7 @@
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
 | 725 | <a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a> | <a href="/code/python/725.py">Python</a> | Medium |
 | 729 | <a href="https://leetcode.com/problems/my-calendar-I/">My Calendar I</a> | <a href="/code/cpp/729.cpp">C++</a> <a href="/code/python/729.py">Python</a> | Medium |
+| 739 | <a href="https://leetcode.com/problems/daily-temperatures/">Daily Temperatures</a> | <a href="/code/python/739.py">Python</a> | Medium |
 | 746 | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a> | <a href="/code/python/746.py">Python</a> | Easy |
 | 767 | <a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a> | <a href="/code/cpp/767.cpp">C++</a> | Medium |
 | 769 | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">Max Chunks To Make Sorted</a> | <a href="/code/python/769.py">Python</a> | Medium |
@@ -91,6 +92,7 @@
 | 827 | <a href="https://leetcode.com/problems/making-a-large-island/">Making A Large Island</a> | <a href="/code/python/827.py">Python</a> | Hard |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
+| 853 | <a href="https://leetcode.com/problems/car-fleet/">Car Fleet</a> | <a href="/code/python/853.py">Python</a> | Medium |
 | 862 | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a> | <a href="/code/python/862.py">Python</a> | Hard |
 | 874 | <a href="https://leetcode.com/problems/walking-robot-simulation/">Walking Robot Simulation</a> | <a href="/code/python/874.py">Python</a> | Medium |
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
