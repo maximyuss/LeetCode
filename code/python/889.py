@@ -7,10 +7,19 @@
 #         self.right = right
 class Solution:
     def constructFromPrePost(self, preorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        if not preorder: return None
-        root = TreeNode(preorder[0])
-        if len(preorder) == 1: return root
-        idx = postorder.index(preorder[1])
-        root.left = self.constructFromPrePost(preorder[1 : 1 + idx + 1], postorder[: idx + 1])
-        root.right = self.constructFromPrePost(preorder[1 + idx + 1 :], postorder[idx + 1 : -1])
-        return root
+        n = len(postorder) - 1
+        dq = deque()
+        idx = 0
+        for curr in preorder:
+            node = TreeNode(curr)
+            if dq:
+                parent = dq[-1]
+                if not parent.left:
+                    parent.left = node
+                else:
+                    parent.right = node
+            dq.append(node)
+            while idx < n and postorder[idx] == dq[-1].val:
+                dq.pop()
+                idx += 1
+        return dq[0]
