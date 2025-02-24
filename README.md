@@ -215,6 +215,7 @@
 | 2458 | <a href="https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/">Height of Binary Tree After Subtree Removal Queries</a> | <a href="/code/cpp/2458.cpp">C++</a> | Hard |
 | 2461 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">Maximum Sum of Distinct Subarrays With Length K</a> | <a href="/code/python/2461.py">Python</a> | Medium |
 | 2466 | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/">Count Ways To Build Good Strings</a> | <a href="/code/python/2466.py">Python</a> | Medium |
+| 2467 | <a href="https://leetcode.com/problems/most-profitable-path-in-a-tree/">Most Profitable Path in a Tree</a> | <a href="/code/python/2467.py">Python</a> | Medium |
 | 2471 | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/">Minimum Number of Operations to Sort a Binary Tree by Level</a> | <a href="/code/python/2471.py">Python</a> | Medium |
 | 2482 | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">Difference Between Ones and Zeros in Row and Column</a> | <a href="/code/python/2482.py">Python</a> | Medium |
 | 2483 | <a href="https://leetcode.com/problems/minimum-penalty-for-a-shop/">Minimum Penalty for a Shop</a> | <a href="/code/python/2483.py">Python</a> | Medium |
