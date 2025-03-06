@@ -5,6 +5,7 @@
 | 15 | <a href="https://leetcode.com/problems/3Sum/">3Sum</a> | <a href="/code/python/15.py">Python</a> | Medium | Two Pointers |
 | 23 | <a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a> | <a href="/code/cpp/23.cpp">C++</a> | Hard |
 | 25 | <a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Reverse Nodes in k-Group</a> | <a href="/code/cpp/25.cpp">C++</a> | Hard |
+| 33 | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a> | <a href="/code/python/33.py">Python</a> | Medium | Binary Search
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
 | 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard | Two Pointers |
@@ -27,6 +28,7 @@
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
 | 150 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a> | <a href="/code/python/150.py">Python</a> | Medium |
+| 153 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a> | <a href="/code/python/153.py">Python</a> | Medium | Binary Search
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
 | 155 | <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> | <a href="/code/python/155.py">Python</a> | Medium |
 | 167 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array Is Sorted</a> | <a href="/code/python/167.py">Python</a> | Medium | Two Pointers |
