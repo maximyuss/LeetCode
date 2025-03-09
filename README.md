@@ -104,6 +104,7 @@
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 889 | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a> | <a href="/code/python/889.py">Python</a> | Medium | Binary Tree |
 | 894 | <a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a> | <a href="/code/python/894.py">Python</a> | Medium |
+| 904 | <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a> | <a href="/code/python/904.py">Python</a> | Medium | Sliding Window |
 | 916 | <a href="https://leetcode.com/problems/word-subsets/">Word Subsets</a> | <a href="/code/python/916.py">Python</a> | Medium |
 | 921 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">Minimum Add to Make Parentheses Valid</a> | <a href="/code/cpp/921.cpp">C++</a> | Medium |
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
@@ -143,6 +144,7 @@
 | 1381 | <a href="https://leetcode.com/problems/design-a-stack-with-increment-operation/">Design a Stack With Increment Operation</a> | <a href="/code/python/1381.py">Python</a> | Medium |
 | 1382 | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</a> | <a href="/code/cpp/1382.cpp">C++</a> <a href="/code/python/1382.py">Python</a> | Medium |
 | 1400 | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/">Construct K Palindrome Strings</a> | <a href="/code/cpp/1400.cpp">C++</a> <a href="/code/python/1400.py">Python</a> | Medium |
+| 1456 | <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">Maximum Number of Vowels in a Substring of Given Length</a> | <a href="/code/python/1456.py">Python</a> | Medium | Sliding Window |
 | 1462 | <a href="https://leetcode.com/problems/course-schedule-iv/">Course Schedule IV</a> | <a href="/code/python/1462.py">Python</a> | Medium | Graph |
 | 1476 | <a href="https://leetcode.com/problems/subrectangle-queries/">Subrectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
@@ -253,6 +255,7 @@
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
 | 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
 | 3203 | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">Find Minimum Diameter After Merging Two Trees</a> | <a href="/code/python/3203.py">Python</a> | Hard | Tree |
+| 3208 | <a href="https://leetcode.com/problems/alternating-groups-ii/">Alternating Groups II</a> | <a href="/code/python/3208.py">Python</a> | Medium | Sliding Window |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
 | 3223 | <a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/">Minimum Length of String After Operations</a> | <a href="/code/python/3223.py">Python</a> | Medium |
 | 3243 | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/">Shortest Distance After Road Addition Queries I</a> | <a href="/code/python/3243.py">Python</a> | Medium |
