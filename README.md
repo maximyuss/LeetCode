@@ -119,8 +119,9 @@
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 983 | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum Cost For Tickets</a> | <a href="/code/cpp/983.cpp">C++</a> | Medium |
-| 1004 | <a href="https://leetcode.com/problems/max-consecutive-ones-iii/">Max Consecutive Ones III</a> | <a href="/code/python/1004.py">Python</a> | Medium | Sliding Window |
+| 1004 | <a href="https://leetcode.com/problems/max-consecutive-ones-iii/">Max Consecutive Ones III</a> | <a href="/code/python/1004.py">Python</a> | Medium | Binary Search |
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
+| 1011 | <a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">Capacity To Ship Packages Within D Days</a> | <a href="/code/python/1011.py">Python</a> | Medium | Sliding Window |
 | 1014 | <a href="https://leetcode.com/problems/best-sightseeing-pair/">Best Sightseeing Pair</a> | <a href="/code/cpp/1014.cpp">C++</a> | Medium |
 | 1026 | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a> | <a href="/code/python/1026.py">Python</a> | Medium | Binary Tree |
 | 1028 | <a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">Recover a Tree From Preorder Traversal</a> | <a href="/code/python/1028.py">Python</a> | Hard | Binary Tree |
