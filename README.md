@@ -114,6 +114,7 @@
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 983 | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum Cost For Tickets</a> | <a href="/code/cpp/983.cpp">C++</a> | Medium |
+| 1004 | <a href="https://leetcode.com/problems/max-consecutive-ones-iii/">Max Consecutive Ones III</a> | <a href="/code/python/1004.py">Python</a> | Medium | Sliding Window |
 | 1008 | <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/">Construct Binary Search Tree from Preorder Traversal</a> | <a href="/code/cpp/1008.cpp">C++</a> <a href="/code/python/1008.py">Python</a>  | Medium |
 | 1014 | <a href="https://leetcode.com/problems/best-sightseeing-pair/">Best Sightseeing Pair</a> | <a href="/code/cpp/1014.cpp">C++</a> | Medium |
 | 1026 | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a> | <a href="/code/python/1026.py">Python</a> | Medium | Binary Tree |
@@ -144,6 +145,7 @@
 | 1381 | <a href="https://leetcode.com/problems/design-a-stack-with-increment-operation/">Design a Stack With Increment Operation</a> | <a href="/code/python/1381.py">Python</a> | Medium |
 | 1382 | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</a> | <a href="/code/cpp/1382.cpp">C++</a> <a href="/code/python/1382.py">Python</a> | Medium |
 | 1400 | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/">Construct K Palindrome Strings</a> | <a href="/code/cpp/1400.cpp">C++</a> <a href="/code/python/1400.py">Python</a> | Medium |
+| 1423 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">Maximum Points You Can Obtain from Cards</a> | <a href="/code/python/1423.py">Python</a> | Medium | Sliding Window |
 | 1456 | <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">Maximum Number of Vowels in a Substring of Given Length</a> | <a href="/code/python/1456.py">Python</a> | Medium | Sliding Window |
 | 1462 | <a href="https://leetcode.com/problems/course-schedule-iv/">Course Schedule IV</a> | <a href="/code/python/1462.py">Python</a> | Medium | Graph |
 | 1476 | <a href="https://leetcode.com/problems/subrectangle-queries/">Subrectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
