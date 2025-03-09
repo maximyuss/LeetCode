@@ -6,6 +6,7 @@
 | 23 | <a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a> | <a href="/code/cpp/23.cpp">C++</a> | Hard |
 | 25 | <a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Reverse Nodes in k-Group</a> | <a href="/code/cpp/25.cpp">C++</a> | Hard |
 | 33 | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a> | <a href="/code/python/33.py">Python</a> | Medium | Binary Search
+| 34 | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a> | <a href="/code/python/34.py">Python</a> | Medium | Binary Search
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
 | 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard | Two Pointers |
@@ -50,6 +51,7 @@
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
+| 376 | <a href="https://leetcode.com/problems/wiggle-subsequence/">Wiggle Subsequence</a> | <a href="/code/python/376.py">Python</a> | Medium |
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 395 | <a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">Longest Substring with At Least K Repeating Characters</a> | <a href="/code/python/395.py">Python</a> | Medium |
 | 407 | <a href="https://leetcode.com/problems/trapping-rain-water-ii/">Trapping Rain Water II</a> | <a href="/code/python/407.py">Python</a> | Hard |
@@ -65,6 +67,7 @@
 | 503 | <a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a> | <a href="/code/python/503.py">Python</a> | Medium |
 | 515 | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/">Find Largest Value in Each Tree Row</a> | <a href="/code/cpp/515.cpp">C++</a> | Medium |
 | 523 | <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a> | <a href="/code/cpp/523.cpp">C++</a> <a href="/code/python/523.py">Python</a> | Medium |
+| 528 | <a href="https://leetcode.com/problems/random-pick-with-weight/">Random Pick with Weight</a> | <a href="/code/python/528.py">Python</a> | Medium | Binary Search |
 | 539 | <a href="https://leetcode.com/problems/minimum-time-difference/">Minimum Time Difference</a> | <a href="/code/cpp/539.cpp">C++</a> <a href="/code/python/539.py">Python</a> | Medium |
 | 540 | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a> | <a href="/code/cpp/540.cpp">C++</a> | Medium |
 | 542 | <a href="https://leetcode.com/problems/01-matrix/">01 Matrix</a> | <a href="/code/python/542.py">Python</a> | Medium |
@@ -101,6 +104,7 @@
 | 853 | <a href="https://leetcode.com/problems/car-fleet/">Car Fleet</a> | <a href="/code/python/853.py">Python</a> | Medium |
 | 862 | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a> | <a href="/code/python/862.py">Python</a> | Hard |
 | 874 | <a href="https://leetcode.com/problems/walking-robot-simulation/">Walking Robot Simulation</a> | <a href="/code/python/874.py">Python</a> | Medium |
+| 875 | <a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a> | <a href="/code/python/875.py">Python</a> | Medium | Binary Search |
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 889 | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a> | <a href="/code/python/889.py">Python</a> | Medium | Binary Tree |
 | 894 | <a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a> | <a href="/code/python/894.py">Python</a> | Medium |
@@ -196,6 +200,7 @@
 | 2100 | <a href="https://leetcode.com/problems/find-good-days-to-rob-the-bank/">Find Good Days to Rob the Bank</a> | <a href="/code/python/2100.py">Python</a> | Medium |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
+| 2149 | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/">Rearrange Array Elements by Sign</a> | <a href="/code/python/2149.py">Python</a> | Medium |
 | 2166 | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/">Check if a Parentheses String Can Be Valid</a> | <a href="/code/python/2166.py">Python</a> | Medium |
 | 2196 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">Create Binary Tree From Descriptions</a> | <a href="/code/cpp/2196.cpp">C++</a> <a href="/code/python/2196.py">Python</a> | Medium |
 | 2181 | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/">Merge Nodes in Between Zeros</a> | <a href="/code/cpp/2181.cpp">C++</a> | Medium |
@@ -230,6 +235,7 @@
 | 2493 | <a href="https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/">Divide Nodes Into the Maximum Number of Groups</a> | <a href="/code/python/2493.py">Python</a> | Hard | Graph |
 | 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
+| 2523 | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/">Closest Prime Numbers in Range</a> | <a href="/code/python/2523.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
 | 2556 | <a href="https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/">Disconnect Path in a Binary Matrix by at Most One Flip</a> | <a href="/code/python/2556.py">Python</a> | Medium | Shortest Path |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
