@@ -215,6 +215,7 @@
 | 2290 | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">Minimum Obstacle Removal to Reach Corner</a> | <a href="/code/python/2290.py">Python</a> | Hard | Shortest Path |
 | 2300 | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a> | <a href="/code/cpp/2300.cpp">C++</a> | Medium |
 | 2326 | <a href="https://leetcode.com/problems/spiral-matrix-iv/">Spiral Matrix IV</a> | <a href="/code/python/2326.py">Python</a> | Medium |
+| 2336 | <a href="https://leetcode.com/problems/smallest-number-in-infinite-set/">Smallest Number in Infinite Set</a> | <a href="/code/python/2336.py">Python</a> | Medium | Priority Queue |
 | 2337 | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/">Move Pieces to Obtain a String</a> | <a href="/code/python/2337.py">Python</a> | Medium |
 | 2343 | <a href="https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/">Max Sum of a Pair With Equal Sum of Digits</a> | <a href="/code/python/2343.py">Python</a> | Medium |
 | 2348 | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a> | <a href="/code/cpp/2348.cpp">C++</a> | Medium |
