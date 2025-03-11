@@ -145,6 +145,7 @@
 | 1310 | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/">XOR Queries of a Subarray</a> | <a href="/code/python/1310.py">Python</a> | Medium |
 | 1315 | <a href="https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/">Sum of Nodes with Even-Valued Grandparent</a> | <a href="/code/python/1315.py">Python</a> | Medium |
 | 1352 | <a href="https://leetcode.com/problems/product-of-the-last-k-numbers/">Product of the Last K Numbers</a> | <a href="/code/python/1352.py">Python</a> | Medium | Prefix Sum |
+| 1358 | <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/">Number of Substrings Containing All Three Characters</a> | <a href="/code/python/1358.py">Python</a> | Medium | Sliding Window |
 | 1365 | <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a> | <a href="/code/cpp/1365.cpp">C++</a> <a href="/code/python/1365.py">Python</a> | Easy |
 | 1367 | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/">Linked List in Binary Tree</a> | <a href="/code/cpp/1367.cpp">C++</a> | Medium |
 | 1368 | <a href="https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/">Minimum Cost to Make at Least One Valid Path in a Grid</a> | <a href="/code/python/1368.py">Python</a> | Hard | Shortest Path |
@@ -193,6 +194,7 @@
 | 2017 | <a href="https://leetcode.com/problems/grid-game/">Grid Game</a> | <a href="/code/python/2017.py">Python</a> | Medium |
 | 2028 | <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a> | <a href="/code/python/2028.py">Python</a> | Medium |
 | 2058 | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">Find the Minimum and Maximum Number of Nodes Between Critical Points</a> | <a href="/code/cpp/2058.cpp">C++</a> | Medium |
+| 2063 | <a href="https://leetcode.com/problems/vowels-of-all-substrings/">Vowels of All Substrings</a> | <a href="/code/python/2063.py">Python</a> | Medium |
 | 2064 | <a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/">Minimized Maximum of Products Distributed to Any Store</a> | <a href="/code/python/2064.py">Python</a> | Medium |
 | 2069 | <a href="https://leetcode.com/problems/walking-robot-simulation-ii/">Walking Robot Simulation II</a> | <a href="/code/python/2069.py">Python</a> | Medium |
 | 2070 | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/">Most Beautiful Item for Each Query</a> | <a href="/code/python/2070.py">Python</a> | Medium |
