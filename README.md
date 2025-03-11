@@ -29,7 +29,7 @@
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
 | 150 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a> | <a href="/code/python/150.py">Python</a> | Medium |
-| 153 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a> | <a href="/code/python/153.py">Python</a> | Medium | Binary Search
+| 153 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a> | <a href="/code/python/153.py">Python</a> | Medium | Binary&nbsp;Search
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
 | 155 | <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> | <a href="/code/python/155.py">Python</a> | Medium |
 | 167 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array Is Sorted</a> | <a href="/code/python/167.py">Python</a> | Medium | Two Pointers |
@@ -109,7 +109,7 @@
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 889 | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a> | <a href="/code/python/889.py">Python</a> | Medium | Binary Tree |
 | 894 | <a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a> | <a href="/code/python/894.py">Python</a> | Medium |
-| 904 | <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a> | <a href="/code/python/904.py">Python</a> | Medium | Sliding Window |
+| 904 | <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a> | <a href="/code/python/904.py">Python</a> | Medium | Sliding&nbsp;Window |
 | 916 | <a href="https://leetcode.com/problems/word-subsets/">Word Subsets</a> | <a href="/code/python/916.py">Python</a> | Medium |
 | 921 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">Minimum Add to Make Parentheses Valid</a> | <a href="/code/cpp/921.cpp">C++</a> | Medium |
 | 945 | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/">Minimum Increment to Make Array Unique</a> | <a href="/code/cpp/945.cpp">C++</a> <a href="/code/python/945.py">Python</a> | Medium |
@@ -155,7 +155,7 @@
 | 1423 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">Maximum Points You Can Obtain from Cards</a> | <a href="/code/python/1423.py">Python</a> | Medium | Sliding Window |
 | 1456 | <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">Maximum Number of Vowels in a Substring of Given Length</a> | <a href="/code/python/1456.py">Python</a> | Medium | Sliding Window |
 | 1462 | <a href="https://leetcode.com/problems/course-schedule-iv/">Course Schedule IV</a> | <a href="/code/python/1462.py">Python</a> | Medium | Graph |
-| 1476 | <a href="https://leetcode.com/problems/subrectangle-queries/">Subrectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
+| 1476 | <a href="https://leetcode.com/problems/suectangle-queries/">Suectangle Queries</a> | <a href="/code/cpp/1476.cpp">C++</a> <a href="/code/python/1476.py">Python</a> | Medium |
 | 1482 | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a> | <a href="/code/cpp/1482.cpp">C++</a> <a href="/code/python/1482.py">Python</a>  | Medium |
 | 1497 | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a> | <a href="/code/python/1497.py">Python</a> | Medium |
 | 1509 | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/">Minimum Difference Between Largest and Smallest Value in Three Moves</a> | <a href="/code/cpp/1509.cpp">C++</a> <a href="/code/python/1509.py">Python</a>  | Medium |
