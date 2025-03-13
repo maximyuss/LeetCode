@@ -276,5 +276,6 @@
 | 3254 | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/">Find the Power of K-Size Subarrays I</a> | <a href="/code/python/3254.py">Python</a> | Medium |
 | 3286 | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/">Find a Safe Walk Through a Grid</a> | <a href="/code/python/3286.py">Python</a> | Medium | Shortest&nbsp;Path |
 | 3355 | <a href="https://leetcode.com/problems/zero-array-transformation-i/">Zero Array Transformation I</a> | <a href="/code/python/3355.py">Python</a> | Medium | Prefix&nbsp;Sum |
+| 3356 | <a href="https://leetcode.com/problems/zero-array-transformation-ii/">Zero Array Transformation II</a> | <a href="/code/python/3356.py">Python</a> | Medium | Binary&nbsp;Search Prefix&nbsp;Sum |
 | 3367 | <a href="https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/">Maximize Sum of Weights after Edge Removals</a> | <a href="/code/python/3367.py">Python</a> | Hard | Tree |
 | 3443 | <a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/">Maximum Manhattan Distance After K Changes</a> | <a href="/code/python/3443.py">Python</a> | Medium |
