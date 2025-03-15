@@ -245,6 +245,7 @@
 | 2523 | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/">Closest Prime Numbers in Range</a> | <a href="/code/python/2523.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
 | 2556 | <a href="https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/">Disconnect Path in a Binary Matrix by at Most One Flip</a> | <a href="/code/python/2556.py">Python</a> | Medium | Shortest Path |
+| 2560 | <a href="https://leetcode.com/problems/house-robber-iv/">House Robber IV</a> | <a href="/code/python/2560.py">Python</a> | Medium | Binary Search |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
 | 2577 | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/">Minimum Time to Visit a Cell In a Grid</a> | <a href="/code/python/2577.py">Python</a> | Hard | Shortest Path |
 | 2583 | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/">Kth Largest Sum in a Binary Tree</a> | <a href="/code/cpp/2583.cpp">C++</a> | Medium |
