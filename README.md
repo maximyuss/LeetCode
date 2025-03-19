@@ -270,6 +270,7 @@
 | 3066 | <a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/">Minimum Operations to Exceed Threshold Value II</a> | <a href="/code/python/3066.py">Python</a> | Medium |
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
 | 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
+| 3191 | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/">Minimum Operations to Make Binary Array Elements Equal to One I</a> | <a href="/code/python/3191.py">Python</a> | Medium |
 | 3203 | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">Find Minimum Diameter After Merging Two Trees</a> | <a href="/code/python/3203.py">Python</a> | Hard | Tree |
 | 3208 | <a href="https://leetcode.com/problems/alternating-groups-ii/">Alternating Groups II</a> | <a href="/code/python/3208.py">Python</a> | Medium | Sliding Window |
 | 3217 | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">Delete Nodes From Linked List Present in Array</a> | <a href="/code/python/3217.py">Python</a> | Medium |
