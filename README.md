@@ -268,6 +268,7 @@
 | 3011 | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/">Find if Array Can Be Sorted</a> | <a href="/code/python/3011.py">Python</a> | Medium |
 | 3043 | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/">Find the Length of the Longest Common Prefix</a> | <a href="/code/python/3043.py">Python</a> | Medium |
 | 3066 | <a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/">Minimum Operations to Exceed Threshold Value II</a> | <a href="/code/python/3066.py">Python</a> | Medium |
+| 3108 | <a href="https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/">Minimum Cost Walk in Weighted Graph</a> | <a href="/code/python/3108.py">Python</a> | Hard | DSU |
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
 | 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
 | 3191 | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/">Minimum Operations to Make Binary Array Elements Equal to One I</a> | <a href="/code/python/3191.py">Python</a> | Medium |
