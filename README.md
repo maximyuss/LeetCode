@@ -77,6 +77,7 @@
 | 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="/code/cpp/611.cpp">C++</a> | Medium |
 | 621 | <a href="https://leetcode.com/problems/task-scheduler/">Task Scheduler</a> | <a href="/code/cpp/621.cpp">C++</a> | Medium |
 | 624 | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/">Maximum Distance in Arrays</a> | <a href="/code/python/624.py">Python</a> | Medium |
+| 630 | <a href="https://leetcode.com/problems/course-schedule-iii/">Course Schedule III</a> | <a href="/code/python/630.py">Python</a> | Hard | Priority Queue |
 | 632 | <a href="https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/">Smallest Range Covering Elements from K Lists</a> | <a href="/code/cpp/632.cpp">C++</a> | Hard |
 | 633 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a> | <a href="/code/cpp/633.cpp">C++</a> | Medium |
 | 641 | <a href="https://leetcode.com/problems/design-circular-deque/">Design Circular Deque</a> | <a href="/code/python/641.py">Python</a> | Medium |
