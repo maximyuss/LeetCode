@@ -202,6 +202,7 @@
 | 2092 | <a href="https://leetcode.com/problems/find-all-people-with-secret/">Find All People With Secret</a> | <a href="/code/cpp/2092.cpp">C++</a> <a href="/code/python/2092.py">Python</a> | Hard | Graph |
 | 2097 | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/">Valid Arrangement of Pairs</a> | <a href="/code/python/2097.py">Python</a> | Hard | Graph |
 | 2100 | <a href="https://leetcode.com/problems/find-good-days-to-rob-the-bank/">Find Good Days to Rob the Bank</a> | <a href="/code/python/2100.py">Python</a> | Medium |
+| 2115 | <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/">Find All Possible Recipes from Given Supplies</a> | <a href="/code/python/2115.py">Python</a> | Medium | Topological Sort |
 | 2134 | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/">Minimum Swaps to Group All 1's Together II</a> | <a href="/code/python/2134.py">Python</a> | Medium |
 | 2136 | <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a> | <a href="/code/cpp/2136.cpp">C++</a> <a href="/code/python/2136.py">Python</a> | Hard |
 | 2149 | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/">Rearrange Array Elements by Sign</a> | <a href="/code/python/2149.py">Python</a> | Medium |
