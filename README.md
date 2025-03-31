@@ -242,11 +242,12 @@
 | 2486 | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/">Append Characters to String to Make Subsequence</a> | <a href="/code/cpp/2486.cpp">C++</a> <a href="/code/python/2486.py">Python</a> | Medium |
 | 2491 | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/">Divide Players Into Teams of Equal Skill</a> | <a href="/code/python/2491.py">Python</a> | Medium |
 | 2493 | <a href="https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/">Divide Nodes Into the Maximum Number of Groups</a> | <a href="/code/python/2493.py">Python</a> | Hard | Graph |
-| 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2501 | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/">Longest Square Streak in an Array</a> | <a href="/code/cpp/2501.cpp">C++</a> <a href="/code/python/2501.py">Python</a> | Medium |
 | 2523 | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/">Closest Prime Numbers in Range</a> | <a href="/code/python/2523.py">Python</a> | Medium |
 | 2530 | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">Maximal Score After Applying K Operations</a> | <a href="/code/cpp/2530.cpp">C++</a> | Medium |
+| 2551 | <a href="https://leetcode.com/problems/put-marbles-in-bags/">Put Marbles in Bags</a> | <a href="/code/python/2551.py">Python</a> | Hard |
 | 2556 | <a href="https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/">Disconnect Path in a Binary Matrix by at Most One Flip</a> | <a href="/code/python/2556.py">Python</a> | Medium | Shortest Path |
+| 2559 | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/">Count Vowel Strings in Ranges</a> | <a href="/code/cpp/2559.cpp">C++</a> | Medium |
 | 2560 | <a href="https://leetcode.com/problems/house-robber-iv/">House Robber IV</a> | <a href="/code/python/2560.py">Python</a> | Medium | Binary Search |
 | 2563 | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/">Count the Number of Fair Pairs</a> | <a href="/code/python/2563.py">Python</a> | Medium |
 | 2577 | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/">Minimum Time to Visit a Cell In a Grid</a> | <a href="/code/python/2577.py">Python</a> | Hard | Shortest Path |
@@ -257,6 +258,7 @@
 | 2661 | <a href="https://leetcode.com/problems/first-completely-painted-row-or-column/">First Completely Painted Row or Column</a> | <a href="/code/python/2661.py">Python</a> | Medium |
 | 2683 | <a href="https://leetcode.com/problems/neighboring-bitwise-xor/">Neighboring Bitwise XOR</a> | <a href="/code/cpp/2683.cpp">C++</a> | Medium |
 | 2684 | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/">Maximum Number of Moves in a Grid</a> | <a href="/code/python/2684.py">Python</a> | Medium |
+| 2685 | <a href="https://leetcode.com/problems/count-the-number-of-complete-components/">Count the Number of Complete Components</a> | <a href="/code/python/2685.py">Python</a> | Medium | Graph |
 | 2698 | <a href="https://leetcode.com/problems/find-the-punishment-number-of-an-integer/">Find the Punishment Number of an Integer</a> | <a href="/code/python/2698.py">Python</a> | Medium |
 | 2669 | <a href="https://leetcode.com/problems/modify-graph-edge-weights/">Modify Graph Edge Weights</a> | <a href="/code/python/2669.py">Python</a> | Hard | Shortest Path |
 | 2707 | <a href="https://leetcode.com/problems/extra-characters-in-a-string/">Extra Characters in a String</a> | <a href="/code/python/2707.py">Python</a> | Medium |
@@ -273,6 +275,7 @@
 | 3108 | <a href="https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/">Minimum Cost Walk in Weighted Graph</a> | <a href="/code/python/3108.py">Python</a> | Hard | DSU |
 | 3152 | <a href="https://leetcode.com/problems/special-array-ii/">Special Array II</a> | <a href="/code/python/3152.py">Python</a> | Medium | Prefix Sum |
 | 3160 | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/">Find the Number of Distinct Colors Among the Balls</a> | <a href="/code/python/3160.py">Python</a> | Medium |
+| 3169 | <a href="https://leetcode.com/problems/count-days-without-meetings/">Count Days Without Meetings</a> | <a href="/code/python/3169.py">Python</a> | Medium |
 | 3191 | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/">Minimum Operations to Make Binary Array Elements Equal to One I</a> | <a href="/code/python/3191.py">Python</a> | Medium |
 | 3203 | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">Find Minimum Diameter After Merging Two Trees</a> | <a href="/code/python/3203.py">Python</a> | Hard | Tree |
 | 3208 | <a href="https://leetcode.com/problems/alternating-groups-ii/">Alternating Groups II</a> | <a href="/code/python/3208.py">Python</a> | Medium | Sliding Window |
