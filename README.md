@@ -10,6 +10,7 @@
 | 33 | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a> | <a href="/code/python/33.py">Python</a> | Medium | Binary Search
 | 34 | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a> | <a href="/code/python/34.py">Python</a> | Medium | Binary Search
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
+| 39 | <a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a> | <a href="/code/python/39.py">Python</a> | Medium |
 | 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
 | 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard | Two Pointers |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
@@ -54,6 +55,7 @@
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 376 | <a href="https://leetcode.com/problems/wiggle-subsequence/">Wiggle Subsequence</a> | <a href="/code/python/376.py">Python</a> | Medium |
+| 377 | <a href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum IV</a> | <a href="/code/python/377.py">Python</a> | Medium | Dynamic Programming |
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 395 | <a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">Longest Substring with At Least K Repeating Characters</a> | <a href="/code/python/395.py">Python</a> | Medium |
 | 407 | <a href="https://leetcode.com/problems/trapping-rain-water-ii/">Trapping Rain Water II</a> | <a href="/code/python/407.py">Python</a> | Hard |
