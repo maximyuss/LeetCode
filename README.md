@@ -55,10 +55,11 @@
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 376 | <a href="https://leetcode.com/problems/wiggle-subsequence/">Wiggle Subsequence</a> | <a href="/code/python/376.py">Python</a> | Medium |
-| 377 | <a href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum IV</a> | <a href="/code/python/377.py">Python</a> | Medium | Dynamic Programming |
+| 377 | <a href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum IV</a> | <a href="/code/python/377.py">Python</a> | Medium | DP |
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 395 | <a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">Longest Substring with At Least K Repeating Characters</a> | <a href="/code/python/395.py">Python</a> | Medium |
 | 407 | <a href="https://leetcode.com/problems/trapping-rain-water-ii/">Trapping Rain Water II</a> | <a href="/code/python/407.py">Python</a> | Hard |
+| 416 | <a href="https://leetcode.com/problems/partition-equal-subset-sum/">Partition Equal Subset Sum</a> | <a href="/code/python/416.py">Python</a> | Medium | DP |
 | 429 | <a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a> | <a href="/code/python/429.py">Python</a> | Medium |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
 | 438 | <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a> | <a href="/code/python/438.py">Python</a> | Medium |
