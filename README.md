@@ -29,6 +29,7 @@
 | 107 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Tree Level Order Traversal II</a> | <a href="/code/python/107.py">Python</a> | Medium |
 | 113 | <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a> | <a href="/code/python/113.py">Python</a> | Medium |
 | 128 | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a> | <a href="/code/python/128.py">Python</a> | Medium |
+| 135 | <a href="https://leetcode.com/problems/candy/">Candy</a> | <a href="/code/python/135.py">Python</a> | Hard |
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
 | 140 | <a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a> | <a href="/code/python/140.py">Python</a> | Hard |
 | 150 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a> | <a href="/code/python/150.py">Python</a> | Medium |
