@@ -109,6 +109,7 @@
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 827 | <a href="https://leetcode.com/problems/making-a-large-island/">Making A Large Island</a> | <a href="/code/python/827.py">Python</a> | Hard |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
+| 848 | <a href="https://leetcode.com/problems/shifting-letters/">Shifting Letters</a> | <a href="/code/java/848.java">Java</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
 | 853 | <a href="https://leetcode.com/problems/car-fleet/">Car Fleet</a> | <a href="/code/python/853.py">Python</a> | Medium |
 | 862 | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a> | <a href="/code/python/862.py">Python</a> | Hard |
