@@ -50,7 +50,7 @@
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
 | 284 | <a href="https://leetcode.com/problems/peeking-iterator/">Peeking Iterator</a> | <a href="/code/python/284.py">Python</a> | Medium |
 | 289 | <a href="https://leetcode.com/problems/game-of-life/">Game of Life</a> | <a href="/code/python/289.py">Python</a> | Medium |
-| 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> | Medium |
+| 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> <a href="/code/java/300.java">Java</a> | Medium |
 | 303 | <a href="https://leetcode.com/problems/range-sum-query-2d-immutable/">Range Sum Query - Immutable</a> | <a href="/code/python/303.py">Python</a> | Medium | Prefix Sum |
 | 310 | <a href="https://leetcode.com/problems/minimum-height-trees/">Minimum Height Trees</a> | <a href="/code/python/310.py">Python</a> | Medium | Graph |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
