@@ -46,6 +46,8 @@
 | 210 | <a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a> | <a href="/code/python/210.py">Python</a> | Medium | Graph |
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
+| 235 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</a> | <a href="/code/java/235.java">Java</a> | Medium | Tree |
+| 236 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/">Lowest Common Ancestor of a Search Tree</a> | <a href="/code/java/236.java">Java</a> | Medium | Tree |
 | 238 | <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a> | <a href="/code/python/238.py">Python</a> | Medium |
 | 239 | <a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding Window Maximum</a> | <a href="/code/cpp/239.cpp">C++</a> | Hard |
 | 275 | <a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a> | <a href="/code/cpp/275.cpp">C++</a> | Medium |
