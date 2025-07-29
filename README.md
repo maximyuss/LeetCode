@@ -23,7 +23,7 @@
 | 73 | <a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a> | <a href="/code/cpp/73.cpp">C++</a> | Medium |
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 76 | <a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a> | <a href="/code/cpp/76.cpp">C++</a> | Hard |
-| 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> | Medium |
+| 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> <a href="/code/java/78.java">Java</a> | Medium |
 | 80 | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Remove Duplicates from Sorted Array II</a> | <a href="/code/cpp/80.cpp">C++</a> | Medium |
 | 84 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest Rectangle in Histogram</a> | <a href="/code/python/84.py">Python</a> | Hard |
 | 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |
@@ -105,6 +105,7 @@
 | 767 | <a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a> | <a href="/code/cpp/767.cpp">C++</a> | Medium |
 | 769 | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">Max Chunks To Make Sorted</a> | <a href="/code/python/769.py">Python</a> | Medium |
 | 778 | <a href="https://leetcode.com/problems/swim-in-rising-water/">Swim in Rising Water</a> | <a href="/code/python/778.py">Python</a> | Hard | Shortest Path |
+| 784 | <a href="https://leetcode.com/problems/letter-case-permutation/">Letter Case Permutation</a> | <a href="/code/java/784.java">Java</a> | Medium |
 | 785 | <a href="https://leetcode.com/problems/is-graph-bipartite/">Is Graph Bipartite?</a> | <a href="/code/python/785.py">Python</a> | Medium | Graph |
 | 787 | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">Cheapest Flights Within K Stops</a> | <a href="/code/python/787.py">Python</a> | Medium | Shortest Path |
 | 802 | <a href="https://leetcode.com/problems/find-eventual-safe-states/">Find Eventual Safe States</a> | <a href="/code/python/802.py">Python</a> | Medium | Graph |
