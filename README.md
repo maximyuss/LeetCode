@@ -120,6 +120,7 @@
 | 885 | <a href="https://leetcode.com/problems/spiral-matrix-iii/">Spiral Matrix III</a> | <a href="/code/python/885.py">Python</a> | Medium |
 | 889 | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a> | <a href="/code/python/889.py">Python</a> | Medium | Binary Tree |
 | 894 | <a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a> | <a href="/code/python/894.py">Python</a> | Medium |
+| 898 | <a href="https://leetcode.com/problems/bitwise-ors-of-subarrays/">Bitwise ORs of Subarrays</a> | <a href="/code/java/898.java">Java</a> | Medium |
 | 904 | <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a> | <a href="/code/python/904.py">Python</a> | Medium | Sliding&nbsp;Window |
 | 909 | <a href="https://leetcode.com/problems/snakes-and-ladders/">Snakes and Ladders</a> | <a href="/code/python/909.py">Python</a> | Medium | Graph |
 | 916 | <a href="https://leetcode.com/problems/word-subsets/">Word Subsets</a> | <a href="/code/python/916.py">Python</a> | Medium |
