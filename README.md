@@ -110,6 +110,7 @@
 | 787 | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">Cheapest Flights Within K Stops</a> | <a href="/code/python/787.py">Python</a> | Medium | Shortest Path |
 | 802 | <a href="https://leetcode.com/problems/find-eventual-safe-states/">Find Eventual Safe States</a> | <a href="/code/python/802.py">Python</a> | Medium | Graph |
 | 807 | <a href="https://leetcode.com/problems/max-increase-to-keep-city-skyline/">Max Increase to Keep City Skyline</a> | <a href="/code/python/807.py">Python</a> | Medium |
+| 808 | <a href="https://leetcode.com/problems/soup-servings/">Soup Servings</a> | <a href="/code/python/808.py">Python</a> <a href="/code/java/808.java">Java</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 827 | <a href="https://leetcode.com/problems/making-a-large-island/">Making A Large Island</a> | <a href="/code/python/827.py">Python</a> | Hard |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
