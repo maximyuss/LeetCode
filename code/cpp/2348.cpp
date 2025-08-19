@@ -2,15 +2,15 @@
 class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
-        size_t res = 0, n = 0;
-        for (size_t i = 0; i < nums.size(); i++) {
-            if (nums[i] == 0) n++;
-            else {
-                res += ((n * (n + 1)) / 2);
-                n = 0;
-            }
+        long long res = 0;
+        int cnt = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 0) {
+                cnt++;
+                res += cnt;
+            } else
+                cnt = 0;
         }
-        res += ((n * (n + 1)) / 2);
         return res;
     }
 };
