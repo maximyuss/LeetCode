@@ -66,6 +66,7 @@
 | 386 | <a href="https://leetcode.com/problems/lexicographical-numbers/">Lexicographical Numbers</a> | <a href="/code/python/386.py">Python</a> | Medium |
 | 395 | <a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">Longest Substring with At Least K Repeating Characters</a> | <a href="/code/python/395.py">Python</a> | Medium |
 | 407 | <a href="https://leetcode.com/problems/trapping-rain-water-ii/">Trapping Rain Water II</a> | <a href="/code/python/407.py">Python</a> | Hard |
+| 413 | <a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a> | <a href="/code/java/413.java">Java</a> | Medium |
 | 416 | <a href="https://leetcode.com/problems/partition-equal-subset-sum/">Partition Equal Subset Sum</a> | <a href="/code/python/416.py">Python</a> | Medium | DP |
 | 429 | <a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a> | <a href="/code/python/429.py">Python</a> | Medium |
 | 432 | <a href="https://leetcode.com/problems/all-oone-data-structure/">All O`one Data Structure</a> | <a href="/code/python/432.py">Python</a> | Hard |
@@ -97,6 +98,7 @@
 | 654 | <a href="https://leetcode.com/problems/maximum-binary-tree/">Maximum Binary Tree</a> | <a href="/code/python/654.py">Python</a> | Medium |
 | 665 | <a href="https://leetcode.com/problems/non-decreasing-array/">Non-decreasing Array</a> | <a href="/code/python/665.py">Python</a> | Medium |
 | 670 | <a href="https://leetcode.com/problems/maximum-swap/">Maximum Swap</a> | <a href="/code/cpp/670.cpp">C++</a> | Medium |
+| 679 | <a href="https://leetcode.com/problems/24-game/">24 Game</a> | <a href="/code/java/679.java">Java</a> | Hard |
 | 684 | <a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</a> | <a href="/code/python/684.py">Python</a> | Medium | DSU |
 | 689 | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">Maximum Sum of 3 Non-Overlapping Subarrays</a> | <a href="/code/python/689.py">Python</a> | Hard |
 | 701 | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a> | <a href="/code/cpp/701.cpp">C++</a> | Medium |
@@ -115,6 +117,7 @@
 | 808 | <a href="https://leetcode.com/problems/soup-servings/">Soup Servings</a> | <a href="/code/python/808.py">Python</a> <a href="/code/java/808.java">Java</a> | Medium |
 | 826 | <a href="https://leetcode.com/problems/most-profit-assigning-work/">Most Profit Assigning Work</a> | <a href="/code/cpp/826.cpp">C++</a> <a href="/code/python/826.py">Python</a> | Medium |
 | 827 | <a href="https://leetcode.com/problems/making-a-large-island/">Making A Large Island</a> | <a href="/code/python/827.py">Python</a> | Hard |
+| 837 | <a href="https://leetcode.com/problems/new-21-game/">New 21 Game</a> | <a href="/code/java/837.java">Java</a> | Medium |
 | 846 | <a href="https://leetcode.com/problems/hand-of-straights/">Hand of Straights</a> | <a href="/code/cpp/846.cpp">C++</a> <a href="/code/python/846.py">Python</a> | Medium |
 | 848 | <a href="https://leetcode.com/problems/shifting-letters/">Shifting Letters</a> | <a href="/code/java/848.java">Java</a> | Medium |
 | 852 | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a> | <a href="/code/cpp/852.cpp">C++</a> | Medium |
