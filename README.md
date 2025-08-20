@@ -56,6 +56,7 @@
 | 295 | <a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a> | <a href="/code/python/295.py">Python</a> <a href="/code/java/295.java">Java</a> | Hard |
 | 300 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a> | <a href="/code/python/300.py">Python</a> <a href="/code/java/300.java">Java</a> | Medium |
 | 303 | <a href="https://leetcode.com/problems/range-sum-query-2d-immutable/">Range Sum Query - Immutable</a> | <a href="/code/python/303.py">Python</a> | Medium | Prefix Sum |
+| 307 | <a href="https://leetcode.com/problems/range-sum-query-mutable/">Range Sum Query - Mutable</a> | <a href="/code/python/307.py">Python</a> | Medium | Fenwick Tree  |
 | 310 | <a href="https://leetcode.com/problems/minimum-height-trees/">Minimum Height Trees</a> | <a href="/code/python/310.py">Python</a> | Medium | Graph |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
