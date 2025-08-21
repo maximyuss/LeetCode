@@ -239,7 +239,7 @@ def main():
             left.append((problem_id, tags))
             continue
         existing = scan_existing_solutions(problem_id, paths['code'])
-        moved = move_files_for_problem(problem_id, paths) if not existing else []
+        moved = move_files_for_problem(problem_id, paths)
         solutions = existing + moved
         if not solutions:
             log_error(paths, problem_id, 'no solution files found')
