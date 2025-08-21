@@ -3,7 +3,7 @@ from datetime import datetime
 
 BEGIN = '<!-- TABLE:BEGIN -->'
 END = '<!-- TABLE:END -->'
-LANG_ORDER = {'Python': 0, 'C++': 1, 'Java': 2}
+LANG_ORDER = {'C++': 0, 'Python': 1, 'Java': 2}
 
 EXT_TO_FOLDER = {
     'py': 'python',
