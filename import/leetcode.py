@@ -221,8 +221,7 @@ def insert_or_update_row(md_path, problem_id, new_row):
     if new_text != text:
         with open(md_path, 'w', encoding='utf-8', newline='\n') as f:
             f.write(new_text)
-        return True
-    return False
+    return True
 
 
 def main():
