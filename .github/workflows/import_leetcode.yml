@@ -18,14 +18,14 @@ jobs:
       - name: Maybe download LeetCode index (weekly cache)
         run: |
           set -e
-          next_monday=$(date -u -d 'monday next week 00:00' +%s)     
+          week_start=$(date -u -d 'monday this week 00:00' +%s)
           if [ -f import/leetcode.json ]; then
             mtime=$(stat -c %Y import/leetcode.json)
           else
             mtime=0
           fi
-          if [ "$mtime" -ge "$next_monday" ]; then
-            echo "LeetCode index is fresh until next Monday. Skip download."
+          if [ "$mtime" -ge "$week_start" ]; then
+            echo "LeetCode index is fresh. Skip download."
           else
             echo "Downloading fresh LeetCode index..."
             curl -fsSL --retry 3 --retry-delay 2 \
