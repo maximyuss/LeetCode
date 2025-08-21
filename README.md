@@ -1,5 +1,5 @@
 <p align=center><a href="1000-1999.md">1000-1999</a> <a href="2000-3999.md">2000-3999</a></p>
-
+<!-- TABLE:BEGIN -->
 | # | Title | Solution | Difficulty | Tags |
 | :--- | :--- | :--- | :---: | :---: |
 | 3 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a> | <a href="/code/python/3.py">Python</a> | Medium |
@@ -141,4 +141,5 @@
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 983 | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum Cost For Tickets</a> | <a href="/code/cpp/983.cpp">C++</a> | Medium |
+<!-- TABLE:END -->
 <p align=center><a href="1000-1999.md">1000-1999</a> <a href="2000-3999.md">2000-3999</a></p>
