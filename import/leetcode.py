@@ -126,7 +126,7 @@ def move_files_for_problem(problem_id, paths):
             else:
                 shutil.move(src, dest)
             label = EXT_TO_LABEL.get(ext, ext.upper())
-            rel = f'/code/{folder}/{name}'
+            rel = f'code/{folder}/{name}'  # <<< changed (relative link, no leading slash)
             found.append((label, rel))
         except Exception as e:
             log_error(paths, problem_id, f'move error: {e}')
@@ -145,7 +145,7 @@ def scan_existing_solutions(problem_id, code_root):
             if name.startswith(str(problem_id) + '.'):
                 ext = name.rsplit('.', 1)[1].lower()
                 label = EXT_TO_LABEL.get(ext, ext.upper())
-                rel = f'/code/{lang_dir}/{name}'
+                rel = f'code/{lang_dir}/{name}'  # <<< changed (relative link, no leading slash)
                 found.append((label, rel))
     return found
 
@@ -224,6 +224,27 @@ def insert_or_update_row(md_path, problem_id, new_row):
     return True
 
 
+def get_current_row(md_path, problem_id):
+    try:
+        with open(md_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+        a = text.find(BEGIN)
+        b = text.find(END, a + len(BEGIN))
+        if a == -1 or b == -1:
+            return None
+        block = text[a + len(BEGIN):b]
+        lines = [ln for ln in block.strip().splitlines() if ln.strip()]
+        if len(lines) < 2:
+            return None
+        for r in lines[2:]:
+            m = re.match(r'^\|\s*(\d+)\s*\|', r)
+            if m and int(m.group(1)) == problem_id:
+                return r
+    except Exception:
+        return None
+    return None
+
+
 def main():
     paths = get_paths()
     ensure_data_dirs(paths)
@@ -256,6 +277,12 @@ def main():
         try:
             md_path = select_target_md(problem_id, paths)
             row = build_row(problem_id, info, solutions, tags)
+            current = get_current_row(md_path, problem_id)
+            if not moved and current is not None and current == row:
+                log_error(paths, problem_id, 'no changes')
+                left.append((problem_id, tags))
+                continue
+
             if not insert_or_update_row(md_path, problem_id, row):
                 log_error(paths, problem_id, 'insert or update failed')
                 left.append((problem_id, tags))
