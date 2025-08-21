@@ -56,7 +56,7 @@ def get_paths():
         'md0': os.path.join(root, 'README.md'),
         'md1': os.path.join(root, '1000-1999.md'),
         'md2': os.path.join(root, '2000-3999.md'),
-        'log': os.path.join(data, 'import_errors.log'),
+        'log': os.path.join(data, 'errors.log'),
     }
 
 
