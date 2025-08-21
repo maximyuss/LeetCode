@@ -18,7 +18,7 @@ jobs:
       - name: Maybe download LeetCode index (weekly cache)
         run: |
           set -e
-          week_start=$(date -u -d 'monday this week 00:00' +%s)
+          week_start=$(date -u -d 'monday next week 00:00' +%s)
           if [ -f import/leetcode.json ]; then
             mtime=$(stat -c %Y import/leetcode.json)
           else
