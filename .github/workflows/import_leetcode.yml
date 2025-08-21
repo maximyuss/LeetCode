@@ -1,0 +1,25 @@
+name: Import from leetcode
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: mkdir -p data
+      - run: curl -fsSL --retry 3 --retry-delay 2 -H "Referer: https://leetcode.com/" https://leetcode.com/api/problems/all/ -o data/leetcode.json
+      - run: python import/leetcode.py
+      - run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@users.noreply.github.com"
+            git add -A
+            git commit -m "ci: update tables"
+            git push
+          fi
