@@ -15,13 +15,25 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Download LeetCode index
+      - name: Maybe download LeetCode index (weekly cache)
         run: |
-          curl -fsSL --retry 3 --retry-delay 2 \
-               -H "Referer: https://leetcode.com/" \
-               -H "Accept: application/json" \
-               --create-dirs -o import/leetcode.json \
-               https://leetcode.com/api/problems/all/
+          set -e
+          next_monday=$(date -u -d 'monday next week 00:00' +%s)     
+          if [ -f import/leetcode.json ]; then
+            mtime=$(stat -c %Y import/leetcode.json)
+          else
+            mtime=0
+          fi
+          if [ "$mtime" -ge "$next_monday" ]; then
+            echo "LeetCode index is fresh until next Monday. Skip download."
+          else
+            echo "Downloading fresh LeetCode index..."
+            curl -fsSL --retry 3 --retry-delay 2 \
+                 -H "Referer: https://leetcode.com/" \
+                 -H "Accept: application/json" \
+                 --create-dirs -o import/leetcode.json \
+                 https://leetcode.com/api/problems/all/
+          fi
 
       - run: python import/leetcode.py
 
