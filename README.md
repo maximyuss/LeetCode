@@ -1,5 +1,6 @@
 <p align=center><a href="1000-1999.md">1000-1999</a> <a href="2000-3999.md">2000-3999</a></p>
 <!-- TABLE:BEGIN -->
+
 | # | Title | Solution | Difficulty | Tags |
 | :--- | :--- | :--- | :---: | :---: |
 | 3 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a> | <a href="/code/python/3.py">Python</a> | Medium |
