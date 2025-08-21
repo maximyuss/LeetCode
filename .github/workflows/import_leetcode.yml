@@ -12,8 +12,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - run: mkdir -p data
-      - run: curl -fsSL --retry 3 --retry-delay 2 -H "Referer: https://leetcode.com/" https://leetcode.com/api/problems/all/ -o data/leetcode.json
+      - run: |
+          curl -fsSL --retry 3 --retry-delay 2 \
+          -H "Referer: https://leetcode.com/" \
+          -H "Accept: application/json" \
+          --create-dirs -o import/leetcode.json \
+          https://leetcode.com/api/problems/all/
       - run: python import/leetcode.py
       - run: |
           if [ -n "$(git status --porcelain)" ]; then
