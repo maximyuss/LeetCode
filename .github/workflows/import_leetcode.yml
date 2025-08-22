@@ -26,6 +26,8 @@ jobs:
           else
             commit_time=0
           fi
+          echo "week_start=$week_start ($(date -u -d @${week_start} '+%F %T UTC'))"
+          echo "commit_time=$commit_time ($( [ "$commit_time" -gt 0 ] && date -u -d @${commit_time} '+%F %T UTC' || echo 'n/a' ))"
           if [ "$commit_time" -ge "$week_start" ]; then
             echo "LeetCode index is fresh. Skip download."
           else
