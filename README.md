@@ -76,6 +76,7 @@
 | 448 | <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a> | <a href="/code/python/448.py">Python</a> | Easy |
 | 472 | <a href="https://leetcode.com/problems/concatenated-words/">Concatenated Words</a> | <a href="/code/python/472.py">Python</a> | Hard |
 | 494 | <a href="https://leetcode.com/problems/target-sum/">Target Sum</a> | <a href="/code/python/494.py">Python</a> | Medium |
+| 498 | <a href="https://leetcode.com/problems/diagonal-traverse/">Diagonal Traverse</a> | <a href="code/java/498.java">Java</a> | Medium |  |
 | 501 | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a> | <a href="/code/cpp/501.cpp">C++</a> <a href="/code/python/501.py">Python</a> | Easy |
 | 502 | <a href="https://leetcode.com/problems/ipo/">IPO</a> | <a href="/code/cpp/502.cpp">C++</a> <a href="/code/python/502.py">Python</a> | Hard |
 | 503 | <a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a> | <a href="/code/python/503.py">Python</a> | Medium |
