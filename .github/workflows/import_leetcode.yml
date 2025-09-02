@@ -20,7 +20,7 @@ jobs:
       - name: Maybe download LeetCode index (weekly cache)
         run: |
           set -e
-          week_start=$(date -u -d "$(date -u +%G-W%V-1) 00:00" +%s)
+          week_start=$(( $(date -u -d '00:00' +%s) - ( $(date -u +%u) - 1 )*86400 ))
           if [ -f import/leetcode.json ]; then
             commit_time=$(git log -1 --format=%ct -- import/leetcode.json)
           else
