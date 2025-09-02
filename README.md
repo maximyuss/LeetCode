@@ -12,6 +12,7 @@
 | 34 | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a> | <a href="/code/python/34.py">Python</a> | Medium | Binary Search
 | 36 | <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a> | <a href="/code/cpp/36.cpp">C++</a> | Medium |
 | 39 | <a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a> | <a href="/code/python/39.py">Python</a> | Medium |
+| 40 | <a href="https://leetcode.com/problems/combination-sum-ii/">Combination Sum II</a> | <a href="code/python/40.py">Python</a> | Medium |  |
 | 41 | <a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a> | <a href="/code/cpp/41.cpp">C++</a>&nbsp;<a href="/code/python/41.py">Python</a> | Hard |
 | 42 | <a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a> | <a href="/code/cpp/42.cpp">C++</a> | Hard | Two Pointers |
 | 43 | <a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a> | <a href="/code/python/43.py">Python</a> | Medium |
@@ -109,6 +110,7 @@
 | 729 | <a href="https://leetcode.com/problems/my-calendar-I/">My Calendar I</a> | <a href="/code/cpp/729.cpp">C++</a> <a href="/code/python/729.py">Python</a> | Medium |
 | 739 | <a href="https://leetcode.com/problems/daily-temperatures/">Daily Temperatures</a> | <a href="/code/python/739.py">Python</a> | Medium |
 | 746 | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a> | <a href="/code/python/746.py">Python</a> | Easy |
+| 752 | <a href="https://leetcode.com/problems/open-the-lock/">Open the Lock</a> | <a href="code/python/752.py">Python</a> | Medium |  |
 | 767 | <a href="https://leetcode.com/problems/reorganize-string/">Reorganize String</a> | <a href="/code/cpp/767.cpp">C++</a> | Medium |
 | 769 | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/">Max Chunks To Make Sorted</a> | <a href="/code/python/769.py">Python</a> | Medium |
 | 778 | <a href="https://leetcode.com/problems/swim-in-rising-water/">Swim in Rising Water</a> | <a href="/code/python/778.py">Python</a> | Hard | Shortest Path |
