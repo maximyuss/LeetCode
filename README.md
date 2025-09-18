@@ -143,6 +143,7 @@
 | 947 | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">Most Stones Removed with Same Row or Column</a> | <a href="/code/python/947.py">Python</a> | Medium |
 | 951 | <a href="https://leetcode.com/problems/flip-equivalent-binary-trees/">Flip Equivalent Binary Trees</a> | <a href="/code/cpp/951.cpp">C++</a> | Medium |
 | 962 | <a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a> | <a href="/code/cpp/962.cpp">C++</a> | Medium |
+| 966 | <a href="https://leetcode.com/problems/vowel-spellchecker/">Vowel Spellchecker</a> | <a href="code/python/966.py">Python</a>&nbsp;<a href="code/go/966.go">Go</a> | Medium |  |
 | 974 | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a> | <a href="/code/cpp/974.cpp">C++</a> <a href="/code/python/974.py">Python</a> | Medium |
 | 981 | <a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a> | <a href="/code/cpp/981.cpp">C++</a> | Medium |
 | 983 | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/">Minimum Cost For Tickets</a> | <a href="/code/cpp/983.cpp">C++</a> | Medium |
