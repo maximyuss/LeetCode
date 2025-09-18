@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/generate-schedule/
+# https://leetcode.com/problems/generate-schedule/
 class Solution:
     def generateSchedule(self, n: int) -> List[List[int]]:
         if n < 5: return []
