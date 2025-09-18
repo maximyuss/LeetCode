@@ -26,6 +26,7 @@
 | 75 | <a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a> | <a href="/code/cpp/75.cpp">C++</a> <a href="/code/python/75.py">Python</a> | Medium |
 | 76 | <a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a> | <a href="/code/cpp/76.cpp">C++</a> | Hard |
 | 78 | <a href="https://leetcode.com/problems/subsets/">Subsets</a> | <a href="/code/cpp/78.cpp">C++</a> <a href="/code/java/78.java">Java</a> | Medium |
+| 79 | <a href="https://leetcode.com/problems/word-search/">Word Search</a> | <a href="code/python/79.py">Python</a>&nbsp;<a href="code/go/79.go">Go</a> | Medium |  |
 | 80 | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Remove Duplicates from Sorted Array II</a> | <a href="/code/cpp/80.cpp">C++</a> | Medium |
 | 84 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest Rectangle in Histogram</a> | <a href="/code/python/84.py">Python</a> | Hard |
 | 85 | <a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a> | <a href="/code/python/85.py">Python</a> | Hard |

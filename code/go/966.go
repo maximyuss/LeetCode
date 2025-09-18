@@ -1,21 +1,19 @@
 // https://leetcode.com/problems/vowel-spellchecker/
-func normalize(s string) string {
-	var b strings.Builder
-	for _, ch := range s {
-		c := ch
-		if c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' {
-			b.WriteByte('*')
-		} else {
-			b.WriteRune(c)
-		}
-	}
-	return b.String()
-}
-
 func spellchecker(wordlist []string, queries []string) []string {
 	dict0 := make(map[string]struct{})
 	dict1 := make(map[string]string)
 	dict2 := make(map[string]string)
+
+	normalize := func(s string) string {
+		return strings.Map(func(r rune) rune {
+			switch r {
+			case 'a', 'e', 'i', 'o', 'u':
+				return '*'
+			default:
+				return r
+			}
+		}, s)
+	}
 
 	for _, word := range wordlist {
 		dict0[word] = struct{}{}
