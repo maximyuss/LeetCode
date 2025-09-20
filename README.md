@@ -47,6 +47,7 @@
 | 207 | <a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a> | <a href="/code/python/207.py">Python</a> | Medium | Graph |
 | 208 | <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> | <a href="/code/cpp/208.cpp">C++</a> | Medium |
 | 210 | <a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a> | <a href="/code/python/210.py">Python</a> | Medium | Graph |
+| 211 | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/">Design Add and Search Words Data Structure</a> | <a href="code/python/211.py">Python</a> | Medium |  |
 | 214 | <a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a> | <a href="/code/python/214.py">Python</a> | Hard |
 | 221 | <a href="https://leetcode.com/problems/maximal-square/">Maximal Square</a> | <a href="/code/python/221.py">Python</a> | Medium |
 | 235 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</a> | <a href="/code/java/235.java">Java</a> | Medium | Tree |
@@ -63,6 +64,7 @@
 | 310 | <a href="https://leetcode.com/problems/minimum-height-trees/">Minimum Height Trees</a> | <a href="/code/python/310.py">Python</a> | Medium | Graph |
 | 330 | <a href="https://leetcode.com/problems/patching-array/">Patching Array</a> | <a href="/code/cpp/330.cpp">C++</a> | Hard |
 | 345 | <a href="https://leetcode.com/problems/russian-doll-envelopes/">Russian Doll Envelopes</a> | <a href="/code/python/345.py">Python</a> | Hard |
+| 355 | <a href="https://leetcode.com/problems/design-twitter/">Design Twitter</a> | <a href="code/python/355.py">Python</a> | Medium |  |
 | 367 | <a href="https://leetcode.com/problems/valid-perfect-square/">Valid Perfect Square | <a href="/code/cpp/367.cpp">C++</a> | Easy |
 | 376 | <a href="https://leetcode.com/problems/wiggle-subsequence/">Wiggle Subsequence</a> | <a href="/code/python/376.py">Python</a> | Medium |
 | 377 | <a href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum IV</a> | <a href="/code/python/377.py">Python</a> | Medium | DP |
