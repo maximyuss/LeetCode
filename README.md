@@ -33,6 +33,7 @@
 | 102 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a> | <a href="/code/python/102.py">Python</a> | Medium |
 | 107 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Tree Level Order Traversal II</a> | <a href="/code/python/107.py">Python</a> | Medium |
 | 113 | <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a> | <a href="/code/python/113.py">Python</a> | Medium |
+| 120 | <a href="https://leetcode.com/problems/triangle/">Triangle</a> | <a href="code/go/120.go">Go</a> | Medium |  |
 | 128 | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a> | <a href="/code/python/128.py">Python</a> | Medium |
 | 135 | <a href="https://leetcode.com/problems/candy/">Candy</a> | <a href="/code/python/135.py">Python</a> | Hard |
 | 139 | <a href="https://leetcode.com/problems/word-break/">Word Break</a> | <a href="/code/python/139.py">Python</a> | Medium |
@@ -41,6 +42,8 @@
 | 153 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a> | <a href="/code/python/153.py">Python</a> | Medium | Binary&nbsp;Search
 | 154 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a> | <a href="/code/cpp/154.cpp">C++</a> | Hard |
 | 155 | <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> | <a href="/code/python/155.py">Python</a> | Medium |
+| 165 | <a href="https://leetcode.com/problems/compare-version-numbers/">Compare Version Numbers</a> | <a href="code/go/165.go">Go</a> | Medium |  |
+| 166 | <a href="https://leetcode.com/problems/fraction-to-recurring-decimal/">Fraction to Recurring Decimal</a> | <a href="code/python/166.py">Python</a> | Medium |  |
 | 167 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array Is Sorted</a> | <a href="/code/python/167.py">Python</a> | Medium | Two Pointers |
 | 173 | <a href="https://leetcode.com/problems/binary-search-tree-iterator/">Binary Search Tree Iterator</a> | <a href="/code/python/173.py">Python</a> | Medium |
 | 200 | <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a> | <a href="/code/python/200.py">Python</a> | Medium |
@@ -93,7 +96,7 @@
 | 560 | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a> | <a href="/code/cpp/560.cpp">C++</a> <a href="/code/python/560.py">Python</a> | Medium |
 | 567 | <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a> | <a href="/code/python/567.py">Python</a> | Medium |
 | 592 | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">592. Fraction Addition and Subtraction</a> | <a href="/code/python/592.py">Python</a> | Medium |
-| 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="/code/cpp/611.cpp">C++</a> | Medium |
+| 611 | <a href="https://leetcode.com/problems/valid-triangle-number/">Valid Triangle Number</a> | <a href="code/cpp/611.cpp">C++</a>&nbsp;<a href="code/python/611.py">Python</a> | Medium |  |
 | 621 | <a href="https://leetcode.com/problems/task-scheduler/">Task Scheduler</a> | <a href="/code/cpp/621.cpp">C++</a> | Medium |
 | 624 | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/">Maximum Distance in Arrays</a> | <a href="/code/python/624.py">Python</a> | Medium |
 | 630 | <a href="https://leetcode.com/problems/course-schedule-iii/">Course Schedule III</a> | <a href="/code/python/630.py">Python</a> | Hard | Priority Queue |
